@@ -1,0 +1,258 @@
+.main-box {
+    
+    padding: 0px;
+    border-radius: 4px;
+}
+.control-group{
+    display: flex;
+    padding: 8px 8px;
+}
+.control-group:nth-child(2n+1){
+    
+
+}
+.alignC{
+    text-align: center;
+}
+.floatL{
+    float: left;
+}
+sup{
+    color: red;
+}
+.report [class*="span"] {
+    font-size: 12px;
+    min-height: 0px;
+}
+.brand img{
+    max-width: 640px !important;
+}
+#black {
+    width: 1000px;
+    margin: 0 auto;
+    color: #FFF;
+
+}
+.call-images {
+    width: 650px;
+    float: left;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.call-images img {
+    display: block;
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.call-images p {
+    margin: 0;
+    font-weight: bold;
+    font-size: 13px;
+    display: block;
+    float: left;
+    width: 300px;
+    color: #FFF;
+    padding-top: 10px;
+}
+.mail {
+    display: block;
+    width: 270px;
+    float: left;
+    padding-top: 10px;
+    font-size: 13px;
+    font-weight: bold;
+    color: #FFF;
+    padding-left: 10px;
+}
+#link-box {
+    width: 1000px;
+    float: left;
+}
+.social {
+    width: 400px;
+    float: left;
+    margin-left: 100px;
+}
+#flash-box-eft {
+    width: 300px;
+    float: left;
+}
+
+.right-menu {
+    width: 350px;
+    float: left;
+    margin-top: 10px;
+}
+.right-menu ul {
+    margin: 0;
+    padding: 0;
+    margin-left: 75px;
+    margin-right: 5px;
+}
+.right-menu ul li {
+    float: left;
+    display: block;
+    list-style: none;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-right: 5px;
+    border-right-color: #999;
+    border-right: 1px solid;
+}
+.right-menu ul li a {
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    
+    text-decoration: none;
+    
+    font-weight: bold;
+}
+.right-menu ul li a:hover {
+    color: #CCC;
+}
+
+.head{
+    padding: 10px;
+
+    padding-top: 20px;
+    padding-bottom: 30px;
+    border: solid 5px rgb(189, 54, 54);
+margin-top: 25px;
+width: 96%;
+margin-left: auto;
+margin-right: auto;
+border-top-left-radius: 25px;
+}
+.main-container{
+       
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+.main-container tr, .main-container td, .main-container th{
+    vertical-align: top;
+}
+h2{
+    padding: 5px;
+}
+body{
+    background-color: white !important;
+}
+.main-container input[type=text], input[type=email], input[type=tel], input[type=password], textarea {
+
+    
+    background: white; 
+    width: 100%;
+    color: #747474;
+    height: 36px; 
+}
+.sub-head{
+    background-color: #e09900;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    padding: 0px 20px;
+    border-radius: 2px;
+    line-height:34px;
+    letter-spacing: 1px;
+}
+.pb{
+    font-size: 12px;
+margin-left: 100px;
+}
+.alignR{
+    text-align: right;
+}
+.eq_table th, .eq_table td{
+    padding:5px 8px;
+}
+.eq-report{
+    margin-top:20px;
+}
+/*////////////reg form//////*/
+
+.reg-img{
+    display: inline-block;
+    padding: 3px;
+    border:solid 1px rgb(204, 202, 204);
+    border-radius: 3px;
+    margin-top: 15px;
+    
+}
+.reg-img img{
+    max-height: 120px;
+}
+.sign-img img{
+    max-width: 120px;
+    max-height: 60px;
+
+}
+.bottom_space{
+    margin-bottom: 2px;
+    font-size: 12px;
+    font-weight: 500;
+}
+.bottom_space div{
+    margin-top: 2px;
+}
+.bottom_space div:nth-child(2n+1){
+    background-color: #f8f8f8;
+}
+.page_break{
+    page-break-before: always;
+}
+.to-box{
+    min-height: 200px;
+    padding:20px;
+    border:solid 1px black;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus{
+    background-color: rgb(189, 54, 54) ;
+}
+
+/*////////////reg form ends//////*/
+.li1{
+    margin-left: 20px;
+}
+.li1 li{
+    list-style-type: decimal;
+}
+.tops a{
+    color:#0E2E4A;
+}
+.main-container select{
+    margin-bottom: 0px !important
+}
+.contantdk1 p{
+    margin-bottom: 0px;
+}
+#reportdk1{
+    text-align: center !important;
+}
+#se{
+   
+    
+}
+
+.ptagaling{
+    width: 100%;
+
+    margin: 0px;
+    padding: 5px 7px;
+    font-size: 12px;
+}
+
+#sidebar-primary .widget-title, #sidebar-secondary .widget-title {
+    background: #e09900 none repeat scroll 0 0;
+    border-bottom: 0 solid #e9b751;
+    border-left: 5px solid #e9b751;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.5;
+    padding: 5px 15px;
+    position: relative;
+    margin-bottom: 20px;
+}
