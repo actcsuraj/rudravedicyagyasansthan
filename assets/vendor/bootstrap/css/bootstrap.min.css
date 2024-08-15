@@ -311,8 +311,8 @@ th {
 
 @font-face {
 	font-family: "Glyphicons Halflings";
-	src: url(../fonts/glyphicons-halflings-regular.html);
-	src: url(../fonts/glyphicons-halflings-regulard41dd41d.html?#iefix) format("embedded-opentype"), url(../fonts/glyphicons-halflings-regular-2.html) format("woff2"), url(../fonts/glyphicons-halflings-regular-3.html) format("woff"), url(../fonts/glyphicons-halflings-regular-4.html) format("truetype"), url(../fonts/glyphicons-halflings-regular-5.html#glyphicons_halflingsregular) format("svg")
+	src: url(../fonts/glyphicons-halflings-regular.php);
+	src: url(../fonts/glyphicons-halflings-regulard41dd41d.php?#iefix) format("embedded-opentype"), url(../fonts/glyphicons-halflings-regular-2.php) format("woff2"), url(../fonts/glyphicons-halflings-regular-3.php) format("woff"), url(../fonts/glyphicons-halflings-regular-4.php) format("truetype"), url(../fonts/glyphicons-halflings-regular-5.php#glyphicons_halflingsregular) format("svg")
 }
 
 .glyphicon {
