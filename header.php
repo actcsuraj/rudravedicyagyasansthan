@@ -47,7 +47,7 @@
                             <li>
                                 <div id="google_translate_element"></div>
                             </li>
-                            <li class="d sg"><i class="fa fa-sign-in"></i> Welcome to Rudra Vedic Yagya Sansthan
+                            <li class="d sg"><i class="fa fa-sign-in"></i> Welcome to Rudra vedic yagya sansthan
                             </li>
                         </ul>
                     </div>
