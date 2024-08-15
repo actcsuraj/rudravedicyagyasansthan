@@ -149,7 +149,7 @@ body{
     height: 36px; 
 }
 .sub-head{
-    background-color: #e09900;
+    background-color: #f2770a;
     color: white;
     font-weight: bold;
     font-size: 17px;
@@ -245,9 +245,9 @@ margin-left: 100px;
 }
 
 #sidebar-primary .widget-title, #sidebar-secondary .widget-title {
-    background: #e09900 none repeat scroll 0 0;
-    border-bottom: 0 solid #e9b751;
-    border-left: 5px solid #e9b751;
+    background: #f2770a none repeat scroll 0 0;
+    border-bottom: 0 solid #f2770a;
+    border-left: 5px solid #f2770a;
     color: #ffffff;
     font-size: 16px;
     font-weight: normal;

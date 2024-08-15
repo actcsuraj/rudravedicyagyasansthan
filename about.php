@@ -21,8 +21,8 @@
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="about_text wow slideInLeft">
-						<h2>International Vedic Foundation </h2>
-						<p>International Vedic Foundation is a trusted and renowned foundation of a globally
+						<h2>Rudra Vedic Yagya Sansthan </h2>
+						<p>Rudra Vedic Yagya Sansthan is a trusted and renowned foundation of a globally
 							prosperous family. Pandit Saurabh Kumar Pandey furthered his imagination and laid its
 							foundation in the year 2018 and in a short time established a satisfied and prosperous
 							family all over the world through Vedic Yagya, Vedic astrology and Vedic rites. It is a

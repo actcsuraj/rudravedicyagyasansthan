@@ -13,7 +13,7 @@ body
 h1, h2, h3, h4, h5, h6 {
 	line-height: 1.1;
 	font-weight:600;
-	color: #e09900;
+	color: #f2770a;
 	margin:0 0 15px 0;
 	padding:0;
 	text-transform:capitalize;
@@ -76,7 +76,7 @@ a:hover {
     padding: 5px 8px;
     font-size: 12px;
     border-radius: 0px;
-    background: #e09900;
+    background: #f2770a;
     color: #ffffff;
     text-transform: uppercase;
 	-webkit-transition: all 0.5s;
@@ -116,14 +116,14 @@ Header Area CSS
 }
 .top-header-social.header_account li a i
 {
-    color: #e09900;
+    color: #f2770a;
     margin-right: 3px;
 }
 .top-header-social.header_account li {
     margin-right: 5px;
 }
 .top-header-social.header_account li a:hover {
-  color: #e09900;
+  color: #f2770a;
   -webkit-transform:none;
   transform: none;
 }
@@ -141,7 +141,7 @@ Header Area CSS
 
 .top-header-social li a {
   display: block;
-  color: #e09900;
+  color: #f2770a;
   font-size: 20px;
 }
 
@@ -172,7 +172,7 @@ Header Area CSS
 }
 
 .top-header-contact-info li i {
-	color: #e09900;
+	color: #f2770a;
     margin-right: 3px;
 }
 
@@ -258,7 +258,7 @@ Header Area CSS
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:hover, .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:focus, .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li a.active {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a {
@@ -266,7 +266,7 @@ Header Area CSS
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover, .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:focus, .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a.active {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
@@ -274,7 +274,7 @@ Header Area CSS
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
@@ -282,7 +282,7 @@ Header Area CSS
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
@@ -290,7 +290,7 @@ Header Area CSS
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
@@ -298,7 +298,7 @@ Header Area CSS
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -315,31 +315,31 @@ Header Area CSS
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li.active a {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li.active a {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .navbar-area.navbar-style-two .astrology-nav .navbar .others-option {
@@ -378,9 +378,9 @@ Header Area CSS
 }
 
 .navbar-area.navbar-style-two.is-sticky .astrology-nav .navbar .others-option .option-item .default-btn:hover {
-  background-color: #e09900;
+  background-color: #f2770a;
   color: #ffffff;
-  border-color: #e09900;
+  border-color: #f2770a;
 }
 
 .navbar-area.navbar-style-three {
@@ -417,8 +417,8 @@ Header Area CSS
 
 .navbar-area.navbar-style-three .astrology-nav .navbar .others-option .option-item .default-btn:hover {
   color: #ffffff;
-  border-color: #e09900;
-  background-color: #e09900;
+  border-color: #f2770a;
+  background-color: #f2770a;
 }
 
 .navbar-area.navbar-style-three .container-fluid {
@@ -467,7 +467,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 	text-transform: capitalize;
 }
 .sidenav a:hover {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .sidenav .closebtn {
@@ -479,7 +479,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 }
 .menu_open
 {
-	color: #e09900;
+	color: #f2770a;
 	font-size: 24px;
 	cursor: pointer;
 	margin-right: 20px;
@@ -638,7 +638,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item a:hover, .astrology-nav .navbar .navbar-nav .nav-item a:focus, .astrology-nav .navbar .navbar-nav .nav-item a.active {
-    color: #e09900 !important;
+    color: #f2770a !important;
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item:last-child a {
@@ -650,7 +650,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item:hover a, .astrology-nav .navbar .navbar-nav .nav-item.active a {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu {
@@ -696,7 +696,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 	right: 10px;
 }
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:hover, .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:focus, .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li a.active {
-	color: #e09900;
+	color: #f2770a;
 }
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu {
 	left: -220px;
@@ -710,7 +710,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 	color: #333;
 }
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover, .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:focus, .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a.active {
-  color: #e09900;
+  color: #f2770a;
 }
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu {
 	left: 250px;
@@ -726,7 +726,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -743,7 +743,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -760,7 +760,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -777,7 +777,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -794,11 +794,11 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -809,7 +809,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -820,7 +820,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -831,7 +831,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -842,7 +842,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li.active a {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -853,7 +853,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li.active a {
-  color: #e09900;
+  color: #f2770a;
 }
 
 .astrology-nav .navbar .navbar-nav .nav-item .dropdown-menu li:hover .dropdown-menu {
@@ -911,7 +911,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 }
 
 .others-option .option-item .search-btn-box .search-btn:hover {
-	color: #e09900;
+	color: #f2770a;
 }
 
 .others-option .option-item .cart-btn {
@@ -936,13 +936,13 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
     line-height: 17px;
     border-radius: 50%;
     color: #ffffff;
-    background-color: #e09900;
+    background-color: #f2770a;
     font-size: 10px;
     font-weight: 600;
 }
 
 .others-option .option-item .cart-btn a:hover {
-	color: #e09900;
+	color: #f2770a;
 }
 
 .others-option .option-item .default-btn {
@@ -952,9 +952,9 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 }
 
 .others-option .option-item .default-btn:hover {
-	background-color: #e09900;
+	background-color: #f2770a;
 	color: #ffffff;
-	border-color: #e09900;
+	border-color: #f2770a;
 }
 
 @media only screen and (max-width: 991px) {
@@ -980,7 +980,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
     font-size: 14px;
 }
 .astrology-responsive-nav .astrology-responsive-menu.mean-container .mean-nav ul li a.active {
-    color: #e09900;
+    color: #f2770a;
 }
 .astrology-responsive-nav .astrology-responsive-menu.mean-container .mean-nav ul li li a {
     font-size: 14px;
@@ -1045,7 +1045,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
     position: absolute;
     left: 0;
     bottom: -1px;
-    background-color: #e09900;
+    background-color: #f2770a;
 }
 .astrology-responsive-nav .astrology-responsive-menu.mean-container .navbar-nav .nav-item.megamenu .dropdown-menu .submenu-title:first-child {
     margin-top: 5px;
@@ -1071,7 +1071,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
     font-weight: 400;
 }
 .astrology-responsive-nav .astrology-responsive-menu.mean-container .navbar-nav .nav-item.megamenu .dropdown-menu .megamenu-submenu li a:hover, .astrology-responsive-nav .astrology-responsive-menu.mean-container .navbar-nav .nav-item.megamenu .dropdown-menu .megamenu-submenu li a.active {
-    color: #e09900;
+    color: #f2770a;
 }
 .astrology-responsive-nav .astrology-responsive-menu.mean-container .navbar-nav .nav-item.megamenu .dropdown-menu .megamenu-submenu .aside-trending-products {
     overflow: hidden;
@@ -1307,7 +1307,7 @@ html body .owl-wrapper-outer {
    border-color:#ffffff;
 }
 html body .owl-carousel .owl-buttons .owl-prev, html body .owl-carousel .owl-buttons .owl-next {
-    background: #e09900;
+    background: #f2770a;
     width: 40px;
     height: 40px;
     line-height: 40px;
@@ -1347,12 +1347,12 @@ html body .owl-controls .owl-page span {
    border-color:#000;
 }
 html body .owl-controls .owl-page.active span {
-    background: #e09900;
-	border-color:#e09900;
+    background: #f2770a;
+	border-color:#f2770a;
 }
 html body .owl-controls .owl-page.active
 {
-	border-color:#e09900;
+	border-color:#f2770a;
 }
 html body .owl-carousel {
     margin: 0;
@@ -1488,7 +1488,7 @@ html body .owl-carousel {
 }
 #website_visitors.astrologers-work .astrologers_visitors .astrologers_experience h3
 {
-    color: #e09900;
+    color: #f2770a;
     font-size: 50px;
     font-weight: bold;
 	  margin-bottom:10px;
@@ -1631,7 +1631,7 @@ html body .owl-carousel {
 /* footer */
 #footer
 {
-    background: #e9b751;
+    background: #f2770a;
 }
 
 #footer .footer_newslatter
@@ -1726,7 +1726,7 @@ html body .owl-carousel {
     top: -375px;
     width: 750px;
     height: 750px;
-    background: #e09900;
+    background: #f2770a;
     content: '';
     z-index: -1;
     -webkit-transform: rotate(45deg);
@@ -1771,7 +1771,7 @@ html body .owl-carousel {
     margin-right: 3px;
 }
 #footer .footer_matter .footer_list li a:hover {
-    color: #e09900;
+    color: #f2770a;
     -webkit-transition: all .5s;
     -moz-transition: all .5s;
     -ms-transition: all .5s;
@@ -1837,7 +1837,7 @@ html body .owl-carousel {
 }
 
 #footer .footer_matter .footer_logo_wrapper li a:hover {
-    background: #e09900;
+    background: #f2770a;
     color: #ffffff;
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
@@ -1870,7 +1870,7 @@ html body .owl-carousel {
 }
 .footer_copyright a
 {
-    color: #e09900;
+    color: #f2770a;
 }
 .footer_copyright a:hover
 {
@@ -1923,7 +1923,7 @@ html body .owl-carousel {
     display: block;
     height: 43px;
     line-height: 40px;
-    background: #e09900; 
+    background: #f2770a; 
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -1988,7 +1988,7 @@ html body .owl-carousel {
 	text-align: center;
     font-size: 18px;
     margin-top: 7px;
-    color: #e09900;
+    color: #f2770a;
 }
 
 #products.products_section .product-thumb .button-group {
@@ -2042,7 +2042,7 @@ html body .owl-carousel {
 	border-right:0px solid #eeeeee;
 }
 #products.products_section .product-thumb .button-group button:hover {
-    background: #e09900;
+    background: #f2770a;
     color: #fff;
 }
 #products.products_section .product-thumb .button-cart:before {
@@ -2097,7 +2097,7 @@ breadcrumb CSS
 .main_breadcrumb {
 	position: relative;
 	z-index: 1;
-	background-color: #e09900;
+	background-color: #f2770a;
 	background-image: url(../image/astrologers-work1.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -2148,7 +2148,7 @@ breadcrumb CSS
 	color: #ffffff;
 }
 .breadcrumb-content ul li a:hover {
-    color: #e09900;
+    color: #f2770a;
 }
 .breadcrumb-content ul li:before {
 	content: '';
@@ -2218,7 +2218,7 @@ breadcrumb CSS
 }
 
 .pagination-section .page-numbers:hover, .pagination-section .page-numbers:focus, .pagination-section .page-numbers.current {
-	color: #e09900;
+	color: #f2770a;
 }
 
 .pagination-section .page-numbers.prev {
@@ -2307,12 +2307,12 @@ breadcrumb CSS
 }
 #category ul li a:hover
 {
-	color:#e09900;
+	color:#f2770a;
 }
 #category ul li a i
 {
     margin-right: 5px;
-    color: #e09900;
+    color: #f2770a;
 	  -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -2335,7 +2335,7 @@ breadcrumb CSS
 }
 .forecast_page .eb_matter h2 i
 {
-	color:#e09900;
+	color:#f2770a;
 	margin-right:5px;
 }
 .forecast_page .eb_matter p
@@ -2583,7 +2583,7 @@ breadcrumb CSS
 }
 #cart .eb-form-inline .form-button .btn:hover
 {
-	background: #e09900;
+	background: #f2770a;
 	color: #ffffff;
 }
 #cart .group-xl > * {
@@ -2771,7 +2771,7 @@ breadcrumb CSS
     color:#333;
 }
 #products_products .single_products_left_side .rating a i {
-    color:#e09900;
+    color:#f2770a;
 }
 #products_products .single_products_left_side .in-stock
 {
@@ -2892,7 +2892,7 @@ breadcrumb CSS
 	background: transparent;
     border: 0;
     outline: 0;
-	color: #e09900;
+	color: #f2770a;
 }
 .custom button.items-count:hover {
 	color: #37a4dd;
@@ -3592,10 +3592,10 @@ em.required
     line-height: 24px;
     padding: 0px 15px;
     min-width: 120px;
-    background-color: #e09900;
+    background-color: #f2770a;
     color: #ffffff;
     text-transform: capitalize;
-    border: 1px solid #e09900;
+    border: 1px solid #f2770a;
     border-radius: 3px;
     text-align: center;
     -webkit-transition: all 0.5s;
@@ -3733,7 +3733,7 @@ em.required
     line-height: 20px;
     padding: 0px 20px;
     min-width: 125px;
-    background-color: #e09900;
+    background-color: #f2770a;
     color: #ffffff;
     text-transform: capitalize;
     border: 1px solid #fff;
@@ -3914,11 +3914,11 @@ font-size: 25px;
     user-select: none;
     transition: 250ms all ease-in-out;
     margin-bottom: 15px;
-    background: #e9b751;
+    background: #f2770a;
 }
 .goog-te-gadget .goog-te-combo {
     margin: 0px 0 !important;
-    background: #e09900;
+    background: #f2770a;
     color: #fff;
     font-weight: 700;
     line-height: 26px;

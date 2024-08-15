@@ -8,21 +8,21 @@
                         <img src="assets/image/logo/footer_logo.png" alt="footer_logo"
                             class="img-responsive wow fadeInDown animated">
                         <h3 class="wow fadeInDown animated"> +91-7652041630</h3>
-                        <p class="wow fadeInDown animated">International Vedic Foundation is a trusted and renowned
+                        <p class="wow fadeInDown animated">Rudra Vedic Yagya Sansthan is a trusted and renowned
                             foundation of a globally prosperous family. </p>
                         <ul>
                             <li class="wow fadeInDown animated"><a
-                                    href="https://www.facebook.com/intelvedicfoundation/"><i
+                                    href="https://www.facebook.com/people/Rudra-Vedic-Yagya-Sansthan/61564435944180/"><i
                                         class="fa fa-facebook"></i></a></li>
                             <li class="wow fadeInDown animated"><a
-                                    href="https://www.instagram.com/invites/contact/?i=1smuv608udt09&amp;utm_content=hbatf6v"><i
+                                    href="https://www.instagram.com/rudravedicyagyasansthan/?utm_source=qr&igsh=d2VndjM3YjJoNzZ5"><i
                                         class="fa fa-instagram"></i></a></li>
                             <li class="wow fadeInDown animated"><a
-                                    href="https://youtube.com/channel/UCJBG5dfQcrVAMUe6Nbgp_oA"><i
+                                    href="https://www.youtube.com/@user-rudravedic"><i
                                         class="fa fa-youtube-play"></i></a></li>
-                            <li class="wow fadeInDown animated"><a
-                                    href="https://www.linkedin.com/in/vishal-bhardwaj-63a456197"><i
-                                        class="fa fa-linkedin"></i></a></li>
+                            <!-- <li class="wow fadeInDown animated"><a
+                                    href="javascript:void(0)"><i
+                                        class="fa fa-linkedin"></i></a></li> -->
                         </ul>
                     </div>
                 </div>
@@ -59,20 +59,25 @@
                 </div>
                 <div class="col-md-4 col-sm-12 col-xs-6">
                     <div class="footer_list_wrapper">
-                        <h2 class="wow fadeInDown animated">Our Services</h2>
+                        <h2 class="wow fadeInDown animated">Quick links</h2>
                         <ul class="footer_list">
-                            <li class="wow fadeInDown animated"><a href="javascript:void(0)"><i
-                                        class="fa fa-angle-right" aria-hidden="true"></i> About Us</a>
+                            <li class="wow fadeInDown animated"><a href="./"><i class="fa fa-angle-right"
+                                        aria-hidden="true"></i> Home</a>
                             </li>
-                            <li class="wow fadeInDown animated"><a href="javascript:void(0)"><i
-                                        class="fa fa-angle-right" aria-hidden="true"></i> Our Services </a>
+                            <li class="wow fadeInDown animated"><a href="about.php"><i class="fa fa-angle-right"
+                                        aria-hidden="true"></i> About Us</a>
                             </li>
-                            <li class="wow fadeInDown animated"><a href="javascript:void(0)"><i
-                                        class="fa fa-angle-right" aria-hidden="true"></i>Products List </a>
+                            <li class="wow fadeInDown animated"><a href="about-yagya.php"><i class="fa fa-angle-right"
+                                        aria-hidden="true"></i> About Yagya</a>
                             </li>
+                            <li class="wow fadeInDown animated"><a href="astrology-services.php"><i
+                                        class="fa fa-angle-right" aria-hidden="true"></i> Astrology Services</a>
                             </li>
-                            <li class="wow fadeInDown animated"><a href="javascript:void(0)"><i
-                                        class="fa fa-angle-right" aria-hidden="true"></i>Contact Us </a> </li><br />
+                            <li class="wow fadeInDown animated"><a href="yagya-services.php"><i
+                                        class="fa fa-angle-right" aria-hidden="true"></i> Yagya Services</a>
+                            </li>
+                            <li class="wow fadeInDown animated"><a href="contact.php"><i class="fa fa-angle-right"
+                                        aria-hidden="true"></i> Contact Us </a> </li><br />
                         </ul>
                     </div>
                 </div>
@@ -86,7 +91,7 @@
             <script>
                 document.write(new Date().getFullYear());
             </script>
-            by Astrology. All right Reserved
+            by Astrology. All right Reserved.
         </p>
     </div>
 </div>
@@ -162,7 +167,6 @@
 <script src="assets/js/custom.js"></script>
 <!-- script files -->
 </body>
-<!-- Mirrored from intelvedicfoundation.com/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 11 Aug 2024 12:35:29 GMT -->
 
 </html>
 <script>

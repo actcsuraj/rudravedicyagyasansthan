@@ -18,7 +18,7 @@
 		<div class="row ast_toppadder70">
 			<div class="col-sm-12">
 				<div class="about_text wow slideInLeft">
-					<h2 class="text-center">International Vedic Foundation</h2>
+					<h2 class="text-center">Rudra Vedic Yagya Sansthan</h2>
 					<p> We are one of the suppliers of Vedic Yagya, Vedic Astrology globally. America, Canada,
 						Columbia, Australia, Lebanon, Israel, Malaysia, Philippines, Mauritius, Thailand, China,
 						Singapore, Qatar, England, Ireland, Germany, Serbia, Ukraine, Portugal, Spain, Brazil,

@@ -72,15 +72,15 @@
 							<div class="contact-box-item">
 								<p class="contact-box-title">Get social</p>
 								<ul class="top-header-social">
-									<li><a href="https://www.facebook.com/intelvedicfoundation/"><i
+									<li><a
+											href="https://www.facebook.com/people/Rudra-Vedic-Yagya-Sansthan/61564435944180/"><i
 												class="fa fa-facebook"></i></a></li>
-									<li><a href="https://youtube.com/channel/UCJBG5dfQcrVAMUe6Nbgp_oA"><i
+									<li><a href="https://www.youtube.com/@user-rudravedic"><i
 												class="fa fa-youtube"></i></a></li>
 									<li><a
-											href="https://www.instagram.com/invites/contact/?i=1smuv608udt09&amp;utm_content=hbatf6v"><i
+											href="https://www.instagram.com/rudravedicyagyasansthan/?utm_source=qr&igsh=d2VndjM3YjJoNzZ5"><i
 												class="fa fa-instagram"></i></a></li>
-									<li><a href="https://www.linkedin.com/in/vishal-bhardwaj-63a456197"><i
-												class="fa fa-linkedin"></i></a></li>
+									<!-- <li><a href="javascript:void(0)"><i class="fa fa-linkedin"></i></a></li> -->
 								</ul>
 							</div>
 							<div class="contact-box-item">

@@ -107,15 +107,15 @@
 					<p><strong><big>Do online Yagya benefit, even when the person for whom the Yagya is done is not
 								present?</big></strong></p>
 
-					<p><big>The team of priests at the International Vedic Foundation conducts Pujas according to the
+					<p><big>The team of priests at the Rudra Vedic Yagya Sansthan conducts Pujas according to the
 							correct Vedic procedures and in the most authentic manner. The Sankalp and Puja have a
 							profound impact that the person can sense right away, even if they are not physically
 							present. After performing online Pujas, many consumers have noted beneficial results.</big>
 					</p>
 
-					<p><strong><big>Where does International Vedic Foundation perform Pujas?</big></strong></p>
+					<p><strong><big>Where does Rudra Vedic Yagya Sansthan perform Pujas?</big></strong></p>
 
-					<p><big>At International Vedic Foundation, we perform all puja at our puja centre in Varanasi
+					<p><big>At Rudra Vedic Yagya Sansthan, we perform all puja at our puja centre in Varanasi
 							(INDIA), which has been spiritually cleansing and energized by Vastu principles.</big></p>
 
 					<p><strong><big>How will I get the information about the Puja?</big></strong></p>

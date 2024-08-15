@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- Mirrored from intelvedicfoundation.com/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 11 Aug 2024 12:34:56 GMT -->
-<!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
-
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
     <title>Book Online Yagya and Astrologer in India | Home</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords"
-        content="International Vedic Foundation, Astrology,Yagya, Vedic Foundation, Pandits, Yagna, Yajna, Free Yagya Recommendation, Vedic Astrology,Astrology, Online Astrology, Horoscope, Online Horoscope, Free Online Horoscope, Astrologer, Online Astrologer, Astrology Online, Free Astrology" />
+        content="Rudra Vedic Yagya Sansthan, Astrology,Yagya, Vedic Foundation, Pandits, Yagna, Yajna, Free Yagya Recommendation, Vedic Astrology,Astrology, Online Astrology, Horoscope, Online Horoscope, Free Online Horoscope, Astrologer, Online Astrologer, Astrology Online, Free Astrology" />
     <meta name="description"
-        content="Best Yagya performances and free yagya suggestion from one of the most dominant and trusted International Vedic Foundation in India." />
+        content="Best Yagya performances and free yagya suggestion from one of the most dominant and trusted Rudra Vedic Yagya Sansthan in India." />
     <link rel="icon" type="image/png" sizes="96x96" href="assets/image/favicon.png">
     <link rel="stylesheet" href="assets/vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
@@ -23,7 +20,6 @@
     <script src="assets/vendor/jquery/jquery.min.js"></script>
     <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
     <script src="assets/vendor/wow/wow.min.js"></script>
-
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <script>
         new WOW().init();
@@ -39,7 +35,6 @@
         wow.init();
     </script>
 </head>
-
 <body>
     <!-- Header Start-->
     <header class="header-area">
@@ -52,7 +47,7 @@
                             <li>
                                 <div id="google_translate_element"></div>
                             </li>
-                            <li class="d sg"><i class="fa fa-sign-in"></i> Welcome to International Vedic Foundation
+                            <li class="d sg"><i class="fa fa-sign-in"></i> Welcome to Rudra Vedic Yagya Sansthan
                             </li>
                         </ul>
                     </div>
@@ -134,8 +129,8 @@
                                         <li class="nav-item"><a href="about.php" class="nav-link"> ABOUT US </a></li>
                                         <li class="nav-item"><a href="about-yagya.php" class="nav-link"> ABOUT YAGYA
                                             </a></li>
-                                        <li class="nav-item"><a href="astrology-services.php"
-                                                class="nav-link">ASTROLOGY SERVICES </a>
+                                        <li class="nav-item"><a href="astrology-services.php" class="nav-link">ASTROLOGY
+                                                SERVICES </a>
                                         </li>
                                         <li class="nav-item"><a href="yagya-services.php" class="nav-link">YAGYA
                                                 SERVICES </a>
