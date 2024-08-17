@@ -71,7 +71,7 @@
                     <div class="row">
                         <div class="astrology-responsive-menu">
                             <div class="logo">
-                                <a href="index-2.php">
+                                <a href="./">
                                     <img src="assets/image/logo/logo.png" alt="logo">
                                 </a>
                             </div>
