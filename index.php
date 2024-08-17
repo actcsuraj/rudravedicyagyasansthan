@@ -1,17 +1,109 @@
 <?php include('header.php'); ?>
-<!-- silder -->
+<!-- Owl Carousel CSS -->
+<link rel="stylesheet" href="assets/index/owl.carousel.min.css">
+<link rel="stylesheet" href="assets/index/owl.theme.default.min.css">
+
+<!-- jQuery (necessary for Owl Carousel) -->
+<script src="assets/index/jquery-3.6.0.min.js"></script>
+
+<!-- Owl Carousel JS -->
+<script src="assets/index/owl.carousel.min.js"></script>
+
+
+<style>
+	.owl-nav .owl-prev,
+	.owl-nav .owl-next {
+		position: absolute;
+		top: 50%;
+		transform: translateY(-50%);
+		background-color: rgba(0, 0, 0, 0.5);
+		padding: 10px;
+		border-radius: 50%;
+		color: white;
+		cursor: pointer;
+	}
+
+	.owl-nav .owl-prev {
+		left: 10px;
+	}
+
+	.owl-next>i {
+		color: white;
+		padding: 10px;
+		background: #f2770a;
+	}
+
+
+	.owl-prev>i {
+		color: white;
+		padding: 10px;
+		background: #f2770a;
+	}
+
+	.owl-nav .owl-next {
+		right: 10px;
+	}
+
+	.owl-nav .owl-prev:hover,
+	.owl-nav .owl-next:hover {
+		background-color: rgba(0, 0, 0, 0.8);
+	}
+
+	.owl-dots {
+		text-align: center;
+		/* margin-top: 10px; */
+		display: none;
+	}
+
+	.owl-dots .owl-dot {
+		display: inline-block;
+		width: 10px;
+		height: 10px;
+		margin: 5px;
+		background-color: #ccc;
+		border-radius: 50%;
+	}
+
+	.owl-dots .owl-dot.active {
+		background-color: #333;
+	}
+</style>
+
 <section id="silder" class="silder_wrapper">
 	<div id="home-silder" class="owl-carousel owl-theme">
 		<div class="item">
-			<img src="images/slider/MAHARSHI-VEDIC-PANDITS-1656172846.jpg" width="100%" alt="silder images"
-				title="MAHARSHI VEDIC PANDITS">
+			<img src="images/slider/1.jpg" width="100%" alt="silder images">
+			<!-- title="MAHARSHI VEDIC PANDITS"> -->
 		</div>
 		<div class="item">
-			<img src="images/slider/SAWAN-SPECIAL-YAGYA-(PUJA)-1721217939.jpg" width="100%" alt="silder images"
-				title="SAWAN SPECIAL YAGYA (PUJA)">
+			<img src="images/slider/2.jpg" width="100%" alt="silder images">
+		</div>
+		<div class="item">
+			<img src="images/slider/3.jpg" width="100%" alt="silder images">
 		</div>
 	</div>
 </section>
+
+<script>
+	$(document).ready(function () {
+		$("#home-silder").owlCarousel({
+			items: 1,              // Number of items to show
+			loop: true,            // Loop the carousel
+			autoplay: true,        // Automatically start the carousel
+			autoplayTimeout: 3000, // Time between slides (in milliseconds)
+			autoplayHoverPause: true, // Pause on hover
+			nav: true,             // Show navigation buttons
+			navText: [
+				'<i class="fa fa-chevron-left"></i>',  // Left arrow
+				'<i class="fa fa-chevron-right"></i>'  // Right arrow
+			],
+			dots: true             // Show pagination dots
+		});
+	});
+</script>
+
+
+
 
 <div id="about_us" class="about_section"><br />
 	<div class="container-fluid">

@@ -26,7 +26,7 @@
 							ask a question about our services.</p>
 						<div class="comments-form-wrapper clearfix comment-respond">
 							<form class="comment-form" method="post"
-								action="https://intelvedicfoundation.com/contact.php">
+								action="contact-post.php">
 								<div class="field">
 									<label for="name"> Name <em class="required">*</em></label>
 									<input type="text" class="input-text" title="Name" name="e_name" required="">

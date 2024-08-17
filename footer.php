@@ -17,8 +17,7 @@
                             <li class="wow fadeInDown animated"><a
                                     href="https://www.instagram.com/rudravedicyagyasansthan/?utm_source=qr&igsh=d2VndjM3YjJoNzZ5"><i
                                         class="fa fa-instagram"></i></a></li>
-                            <li class="wow fadeInDown animated"><a
-                                    href="https://www.youtube.com/@user-rudravedic"><i
+                            <li class="wow fadeInDown animated"><a href="https://www.youtube.com/@user-rudravedic"><i
                                         class="fa fa-youtube-play"></i></a></li>
                             <!-- <li class="wow fadeInDown animated"><a
                                     href="javascript:void(0)"><i
@@ -32,7 +31,7 @@
 
                         <!--<p style="color:#fff;"> We have several safe ways of payment possibilities for your comfort:</p>-->
                         <ul class="footer_list">
-                            <li> <img src="images/qr.jpg" style="height: 111px;"></li>
+                            <li> <img src="images/qr.png" style="height: 111px;"></li>
                             <li class="wow fadeInDown animated"><a href="javascript:void(0)"><i
                                         class="fa fa-angle-right" aria-hidden="true"></i> Credit cards (Visa,
                                     MasterCard, Amex, Discover)</a>
@@ -109,6 +108,12 @@
 </div><!--- End Footer -->
 <!-- script files -->
 <!-- home silder -->
+
+<!-- script files -->
+</body>
+
+<script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script>
+<script src="assets/js/custom.js"></script>
 <script>
     $(document).ready(function () {
         $('#home-silder').owlCarousel({
@@ -163,12 +168,7 @@
         });
     });
 </script>
-<script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script>
-<script src="assets/js/custom.js"></script>
-<!-- script files -->
-</body>
 
-</html>
 <script>
     function myFunction() {
         var dots = document.getElementById("dots");
@@ -185,3 +185,5 @@
         }
     }
 </script>
+
+</html>

@@ -1,55 +1,55 @@
-# Enable URL rewriting
-RewriteEngine On
+# # Enable URL rewriting
+# RewriteEngine On
 
-# Redirect www to non-www
-RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
-RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+# # Redirect www to non-www
+# RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+# RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 
-# Redirect HTTP to HTTPS
-RewriteCond %{HTTPS} off
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+# # Redirect HTTP to HTTPS
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
-# Custom 404 error page
-ErrorDocument 404 /404.php
+# # Custom 404 error page
+# ErrorDocument 404 /404.php
 
-# Block access to .htaccess, .htpasswd, and other sensitive files
-<FilesMatch "^\.ht">
-    Require all denied
-</FilesMatch>
+# # Block access to .htaccess, .htpasswd, and other sensitive files
+# <FilesMatch "^\.ht">
+#     Require all denied
+# </FilesMatch>
 
-# Block access to PHP files in specific directories
-<Directory "/path/to/directory">
-    Deny from all
-</Directory>
+# # Block access to PHP files in specific directories
+# <Directory "/path/to/directory">
+#     Deny from all
+# </Directory>
 
-# Disable directory listing
-Options -Indexes
+# # Disable directory listing
+# Options -Indexes
 
-# Set up caching for static content
-<IfModule mod_expires.c>
-    ExpiresActive On
-    ExpiresByType image/jpg "access plus 1 month"
-    ExpiresByType image/jpeg "access plus 1 month"
-    ExpiresByType image/gif "access plus 1 month"
-    ExpiresByType image/png "access plus 1 month"
-    ExpiresByType text/css "access plus 1 month"
-    ExpiresByType application/pdf "access plus 1 month"
-    ExpiresByType text/javascript "access plus 1 month"
-    ExpiresByType application/javascript "access plus 1 month"
-    ExpiresByType application/x-shockwave-flash "access plus 1 month"
-    ExpiresByType image/x-icon "access plus 1 year"
-</IfModule>
+# # Set up caching for static content
+# <IfModule mod_expires.c>
+#     ExpiresActive On
+#     ExpiresByType image/jpg "access plus 1 month"
+#     ExpiresByType image/jpeg "access plus 1 month"
+#     ExpiresByType image/gif "access plus 1 month"
+#     ExpiresByType image/png "access plus 1 month"
+#     ExpiresByType text/css "access plus 1 month"
+#     ExpiresByType application/pdf "access plus 1 month"
+#     ExpiresByType text/javascript "access plus 1 month"
+#     ExpiresByType application/javascript "access plus 1 month"
+#     ExpiresByType application/x-shockwave-flash "access plus 1 month"
+#     ExpiresByType image/x-icon "access plus 1 year"
+# </IfModule>
 
-# PHP settings (optional)
-# Increase file upload size
-php_value upload_max_filesize 20M
-php_value post_max_size 25M
+# # PHP settings (optional)
+# # Increase file upload size
+# php_value upload_max_filesize 20M
+# php_value post_max_size 25M
 
-# Increase execution time
-php_value max_execution_time 300
-php_value max_input_time 300
+# # Increase execution time
+# php_value max_execution_time 300
+# php_value max_input_time 300
 
-# Disable file extensions that shouldn't be accessed directly
-<FilesMatch "\.(htaccess|htpasswd|ini|log|sh|inc|bak|php)$">
-    Deny from all
-</FilesMatch>
+# # Disable file extensions that shouldn't be accessed directly
+# <FilesMatch "\.(htaccess|htpasswd|ini|log|sh|inc|bak|php)$">
+#     Deny from all
+# </FilesMatch>
