@@ -7,7 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $country = htmlspecialchars($_POST['e_country']);
     $message = htmlspecialchars($_POST['e_message']);
     
-    $to = "scmau276403@gmail.com";
+    $to = "rudravedicyagyasansthan@gmail.com";
     $subject = "Contact form submission";
     
     // Glassmorphism design email content with #f2770a background

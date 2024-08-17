@@ -38,24 +38,24 @@
 								</div>
 								<div class="field">
 									<label for="email"> Email <em class="required">*</em></label>
-									<input type="text" class="input-text validate-email" title="Email" name="e_email">
+									<input type="text" class="input-text validate-email" title="Email" name="e_email" required>
 								</div>
 								<div class="field">
 									<label for="email"> City <em class="required">*</em></label>
-									<input type="text" class="input-text validate-email" title="City" name="e_city">
+									<input type="text" class="input-text validate-email" title="City" name="e_city" required>
 								</div>
 
 								<div class="field">
 									<label for="email"> Country <em class="required">*</em></label>
 									<input type="text" class="input-text validate-email" title="Country"
-										name="e_country">
+										name="e_country" required>
 								</div>
 
 								<div class="clear"></div>
 								<div class="field aw-blog-comment-area">
 									<label for="comment">Enter Message</label>
 									<textarea rows="5" cols="50" class="input-text" title="Comment"
-										name="e_message"></textarea>
+										name="e_message" required></textarea>
 								</div>
 								<div style="width:96%" class="button-set">
 									<button type="submit" class="btn submit" name="submit"><span><span> Submit
