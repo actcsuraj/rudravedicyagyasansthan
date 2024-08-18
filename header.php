@@ -10,7 +10,7 @@
         content="Rudra Vedic Yagya Sansthan, Astrology,Yagya, Vedic Foundation, Pandits, Yagna, Yajna, Free Yagya Recommendation, Vedic Astrology,Astrology, Online Astrology, Horoscope, Online Horoscope, Free Online Horoscope, Astrologer, Online Astrologer, Astrology Online, Free Astrology" />
     <meta name="description"
         content="Best Yagya performances and free yagya suggestion from one of the most dominant and trusted Rudra Vedic Yagya Sansthan in India." />
-    <link rel="icon" type="image/png" sizes="96x96" href="assets/image/favicon.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="assets/image/logo/logo.png">
     <link rel="stylesheet" href="assets/vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
