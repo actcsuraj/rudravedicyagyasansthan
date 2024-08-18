@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Bhairav Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -32,8 +32,7 @@
 						<p class="wow fadeInDown animated">The Maha Kaal Bhairava Enemy Destruction Mantra is one of
 							the... </p>
 
-						<div class="pricee">Price : $200 / -</div>
-						<br />
+					 
 					</div>
 				</div>
 			</div>

@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Saraswati Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -32,8 +32,7 @@
 						<p class="wow fadeInDown animated">The festival of Basant Panchami is celebrated on the fifth
 							day of Shukla Paksha of Magha month. </p>
 
-						<div class="pricee">Price : 19$ / -</div>
-						<br />
+						 
 					</div>
 				</div>
 			</div>

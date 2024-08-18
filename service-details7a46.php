@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Ketu Peace Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -30,10 +30,7 @@
 								Ketu Peace Yagya </a></h2>
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong> 1(A) </p>-->
 						<p class="wow fadeInDown animated">Internally Ketu represents the powerful mind, the higher
-							state of consciousness.  </p>
-
-						<div class="pricee">Price : $351.00 / -</div>
-						<br />
+							state of consciousness.  </p> 
 					</div>
 				</div>
 			</div>

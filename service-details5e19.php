@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>BilvaPatra Offering to Lord Shiva</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -31,10 +31,7 @@
 								BilvaPatra Offering to Lord Shiva </a></h2>
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong>  </p>-->
 						<p class="wow fadeInDown animated">Belpatra is called Belpatra or Bilvapatra. Belpatra has three
-							leaves joined together. </p>
-
-						<div class="pricee">Price : $21.00 / -</div>
-						<br />
+							leaves joined together. </p> 
 					</div>
 				</div>
 			</div>

@@ -8,7 +8,7 @@
 			<div class="breadcrumb-content">
 				<h2>About Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">About Yagya</a></li>
 				</ul>
 			</div>

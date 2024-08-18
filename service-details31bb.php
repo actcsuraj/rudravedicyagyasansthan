@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Sharadiya Navratri Durga Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -33,7 +33,7 @@
 						<p class="wow fadeInDown animated">Navratri Yagya is very important and prominent in the Vedic
 							tradition. Navratri Yagya. </p>
 
-						<div class="pricee">Price : $199.00 / -</div>
+						
 						<br />
 					</div>
 				</div>

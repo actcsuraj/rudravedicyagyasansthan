@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Gandmool Dosh Yagya.</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -31,8 +31,6 @@
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong>  </p>-->
 						<p class="wow fadeInDown animated">The concept of Gandmool Nakshatra Dosha refers to the
 							astronomical phenomenon... </p>
-
-						<div class="pricee">Price : 600$ / -</div>
 						<br />
 					</div>
 				</div>

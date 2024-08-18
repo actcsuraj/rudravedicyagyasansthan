@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Maha Shivratri Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -30,10 +30,7 @@
 								Maha Shivratri Yagya </a></h2>
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong>  </p>-->
 						<p class="wow fadeInDown animated"> Why Shivratri is celebrated - Maha Shivratri is the wedding
-							day of Lord Shiva and Goddess Parvati. </p>
-
-						<div class="pricee">Price : 20$ / -</div>
-						<br />
+							day of Lord Shiva and Goddess Parvati. </p> 
 					</div>
 				</div>
 			</div>

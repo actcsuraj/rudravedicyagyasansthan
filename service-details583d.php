@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Rudrabhishek Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -31,8 +31,7 @@
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong>  </p>-->
 						<p class="wow fadeInDown animated">Literal meaning, Rudra is another name of Lord Shiva. </p>
 
-						<div class="pricee">Price : $211.00 / -</div>
-						<br />
+						
 					</div>
 				</div>
 			</div>

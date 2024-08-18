@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Moon Peace Yagya.</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -30,10 +30,7 @@
 								Moon Peace Yagya. </a></h2>
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong> 1(A) </p>-->
 						<p class="wow fadeInDown animated">The circumstances affecting the Moon in astrology affect
-							thinking </p>
-
-						<div class="pricee">Price : $221 / -</div>
-						<br />
+							thinking </p> 
 					</div>
 				</div>
 			</div>

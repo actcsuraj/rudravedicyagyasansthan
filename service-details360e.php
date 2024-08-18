@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Sawan Special Yagya to lord shiva: Sawan Rudrabhishek 2024.</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -32,9 +32,7 @@
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong>  </p>-->
 						<p class="wow fadeInDown animated">Rudrabhishek Yagna brings profound growth in spiritual
 							awareness and strength from external support systems. </p>
-
-						<div class="pricee">Price : 499$ / -</div>
-						<br />
+ 
 					</div>
 				</div>
 			</div>

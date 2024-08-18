@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Durga Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -30,10 +30,7 @@
 								Durga Yagya </a></h2>
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong> 1(A) </p>-->
 						<p class="wow fadeInDown animated">Maa Durga frees them from all the difficulties, obstacles...
-						</p>
-
-						<div class="pricee">Price : (1A) 595$ (2B) 457$ (3C) 251$ / -</div>
-						<br />
+						</p> 
 					</div>
 				</div>
 			</div>

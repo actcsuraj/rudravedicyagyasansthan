@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Nakshatra Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -30,10 +30,7 @@
 								Nakshatra Yagya </a></h2>
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong> 1(A) </p>-->
 						<p class="wow fadeInDown animated">When a person is born, the Moon and other planets have their
-							special zodiac signs. </p>
-
-						<div class="pricee">Price : (1A) 451$ (2B) 355$ (3C) 221$ / -</div>
-						<br />
+							special zodiac signs. </p> 
 					</div>
 				</div>
 			</div>

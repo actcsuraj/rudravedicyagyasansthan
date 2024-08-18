@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Mahasaraswati Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -31,8 +31,6 @@
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong> 1(A) </p>-->
 						<p class="wow fadeInDown animated">Saraswati Yagya for art, creation, increase in knowledge </p>
 
-						<div class="pricee">Price : (1A) 365$ (2B) 251$ (3C) 181$ / -</div>
-						<br />
 					</div>
 				</div>
 			</div>

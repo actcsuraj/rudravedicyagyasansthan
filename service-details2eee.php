@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Chaitra Navratri Vedic Homa Yagya.</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -33,7 +33,7 @@
 						<p class="wow fadeInDown animated">Vasant Navratri of Chaitra Navratri is an important
 							festival which has great significance in Indian culture. </p>
 
-						<div class="pricee">Price : $49-$199 / -</div>
+						
 						<br />
 					</div>
 				</div>

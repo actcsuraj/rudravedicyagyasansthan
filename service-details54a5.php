@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Gayatri Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -31,9 +31,7 @@
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong>  </p>-->
 						<p class="wow fadeInDown animated">A person can proceed rapidly on the path of soul growth and
 							self... </p>
-
-						<div class="pricee">Price : $300 / -</div>
-						<br />
+ 
 					</div>
 				</div>
 			</div>

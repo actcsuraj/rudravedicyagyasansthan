@@ -7,7 +7,7 @@
 			<div class="breadcrumb-content">
 				<h2>ONE YEAR REPORT</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>

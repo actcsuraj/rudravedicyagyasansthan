@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Akshaya Tritiya Special Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -33,8 +33,7 @@
 						<p class="wow fadeInDown animated">Akshaya Tritiya is said to the most auspicious day of the
 							year. Any charity or good act performed, or gold purchased or puja conducted. </p>
 
-						<div class="pricee">Price : $49./ / -</div>
-						<br />
+					 
 					</div>
 				</div>
 			</div>

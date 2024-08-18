@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>KalSarp Dosha Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -31,9 +31,7 @@
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong> 1(A) </p>-->
 						<p class="wow fadeInDown animated">Kaal Sarp Dosh in Kundli creates many problems in a persons..
 						</p>
-
-						<div class="pricee">Price : (1A) 611$ (2B) 451$ (3C) 351$ / -</div>
-						<br />
+ 
 					</div>
 				</div>
 			</div>

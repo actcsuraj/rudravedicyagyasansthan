@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Mahamritunjya Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -30,10 +30,7 @@
 								Mahamritunjya Yagya </a></h2>
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong> 1(A) </p>-->
 						<p class="wow fadeInDown animated">Mahamrityunjaya Yagya helps in curing serious illness
-							rapidly.  </p>
-
-						<div class="pricee">Price : (1A) 2999$ (2B) 2299 $ (3C) 1499$ / -</div>
-						<br />
+							rapidly.  </p> 
 					</div>
 				</div>
 			</div>

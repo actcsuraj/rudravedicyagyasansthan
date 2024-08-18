@@ -7,7 +7,7 @@
 			<div class="breadcrumb-content">
 				<h2>About Us</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">About Us</a></li>
 				</ul>
 			</div>

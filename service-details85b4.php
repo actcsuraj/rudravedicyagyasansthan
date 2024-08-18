@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Saturn Peace Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -31,9 +31,7 @@
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong> 1(A) </p>-->
 						<p class="wow fadeInDown animated">Saturn in horoscope is a very important and sometimes
 							profound. </p>
-
-						<div class="pricee">Price : $451 / -</div>
-						<br />
+ 
 					</div>
 				</div>
 			</div>

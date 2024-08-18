@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Jupiter Peace Yagya.</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -30,10 +30,7 @@
 								Jupiter Peace Yagya. </a></h2>
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong> 1(A) </p>-->
 						<p class="wow fadeInDown animated">jupiter signifies higher education, spiritual traditions and
-							knowledge </p>
-
-						<div class="pricee">Price : $351.00 / -</div>
-						<br />
+							knowledge </p> 
 					</div>
 				</div>
 			</div>

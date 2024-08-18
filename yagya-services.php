@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Our Services</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Our Services</a></li>
 				</ul>
 			</div>

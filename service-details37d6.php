@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Special Yagya of Sawan Maas.</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -33,9 +33,7 @@
 						<p class="wow fadeInDown animated">Offering Belpatra to Lord Shiva is considered auspicious and
 							according to Vedic scriptures, if Belpatra is offered in the right manner, then wishes are
 							also fulfilled. </p>
-
-						<div class="pricee">Price : 99$ / -</div>
-						<br />
+ 
 					</div>
 				</div>
 			</div>

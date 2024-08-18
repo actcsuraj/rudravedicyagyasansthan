@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Pitra Dosh Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -30,10 +30,7 @@
 								Pitra Dosh Yagya </a></h2>
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong>  </p>-->
 						<p class="wow fadeInDown animated">Pitra Dosha Puja is conducted in connection with being one of
-							the most important. </p>
-
-						<div class="pricee">Price : 600$ / -</div>
-						<br />
+							the most important. </p> 
 					</div>
 				</div>
 			</div>

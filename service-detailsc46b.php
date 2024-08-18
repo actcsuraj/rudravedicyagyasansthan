@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Santan Gopal Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -30,10 +30,7 @@
 								Santan Gopal Yagya </a></h2>
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong>  </p>-->
 						<p class="wow fadeInDown animated">The child protects the mother and child from all kinds of
-							accidents.... </p>
-
-						<div class="pricee">Price : (1A) 865$ (2B) 651$ (3C) 451$ / -</div>
-						<br />
+							accidents.... </p> 
 					</div>
 				</div>
 			</div>

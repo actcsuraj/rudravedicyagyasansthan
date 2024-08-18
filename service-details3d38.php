@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Kartik Mas Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -32,7 +32,7 @@
 						<p class="wow fadeInDown animated">Kartik month is the most favorite month of Lord Vishnu.
 							In the month of Kartik, </p>
 
-						<div class="pricee">Price : $199/00 / -</div>
+						
 						<br />
 					</div>
 				</div>

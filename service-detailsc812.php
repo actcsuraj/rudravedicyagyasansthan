@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Vishnu Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -31,9 +31,7 @@
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong>  </p>-->
 						<p class="wow fadeInDown animated">To maintain general well-being, this Yagya is very important.
 							All the divine incarnations. </p>
-
-						<div class="pricee">Price : (1A)665$ (2B) 551$ (3C)451$ / -</div>
-						<br />
+ 
 					</div>
 				</div>
 			</div>

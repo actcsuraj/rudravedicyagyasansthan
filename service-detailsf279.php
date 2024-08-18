@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Bangla Mukhi Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -31,8 +31,7 @@
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong>  </p>-->
 						<p class="wow fadeInDown animated">Baglamukhi Yagya is performed to appease Goddess </p>
 
-						<div class="pricee">Price : (1A) 965$ (2B) 851$ (3C) 751$ / -</div>
-						<br />
+					
 					</div>
 				</div>
 			</div>

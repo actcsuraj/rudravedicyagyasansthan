@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Hanuman  Yagya.</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -30,9 +30,7 @@
 								Hanuman  Yagya. </a></h2>
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong>  </p>-->
 						<p class="wow fadeInDown animated">Lord Hanuman is one of the v incarnations of Lord Shiva. </p>
-
-						<div class="pricee">Price : 300$ / -</div>
-						<br />
+ 
 					</div>
 				</div>
 			</div>

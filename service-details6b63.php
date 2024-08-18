@@ -6,7 +6,7 @@
 			<div class="breadcrumb-content">
 				<h2>Mangal Dosha Yagya</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
 				</ul>
 			</div>
@@ -30,10 +30,7 @@
 								Mangal Dosha Yagya </a></h2>
 						<!--	<p class="wow fadeInDown animated"><strong>Category  :</strong>  </p>-->
 						<p class="wow fadeInDown animated">When Mars Dosha Yoga is being formed in your horoscope....
-						</p>
-
-						<div class="pricee">Price : (1A) 751$ (2B) 555$ (3C) 378$ / -</div>
-						<br />
+						</p> 
 					</div>
 				</div>
 			</div>
