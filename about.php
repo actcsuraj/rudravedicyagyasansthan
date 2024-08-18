@@ -37,7 +37,7 @@
 				</div>
 				<div class="col-sm-6">
 					<div class="about_images wow slideInRight">
-						<img src="assets/image/about_img.png" width="100%" alt="silder images" title="silder images">
+						<img src="assets/image/about_img.png" width="300px" alt="silder images" title="silder images">
 					</div>
 				</div>
 			</div>
