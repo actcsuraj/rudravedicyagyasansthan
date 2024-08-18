@@ -6,7 +6,7 @@
                 <div class="col-md-4 col-sm-12 col-xs-12">
                     <div class="footer_logo_wrapper">
                         <img src="assets/image/logo/footer_logo.png" alt="footer_logo"
-                            class="img-responsive wow fadeInDown animated">
+                            class="img-responsive wow fadeInDown animated" width="200px">
                         <h3 class="wow fadeInDown animated"> +91-7652041630</h3>
                         <p class="wow fadeInDown animated">Rudra Vedic Yagya Sansthan is a trusted and renowned
                             foundation of a globally prosperous family. </p>

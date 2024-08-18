@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
 <head>
     <title>Book Online Yagya and Astrologer in India | Home</title>
     <meta charset="utf-8">
@@ -35,6 +36,7 @@
         wow.init();
     </script>
 </head>
+
 <body>
     <!-- Header Start-->
     <header class="header-area">
@@ -73,6 +75,8 @@
                             <div class="logo">
                                 <a href="./">
                                     <img src="assets/image/logo/logo.png" alt="logo">
+                                    <span style="font-size: 18px;font-weight:bolder;color:#f2770a">Rudra vedic yagya
+                                        sansthan</span>
                                 </a>
                             </div>
                             <div class="others-option align-items-center">
@@ -122,6 +126,8 @@
                             <nav class="navbar navbar-expand-md navbar-light">
                                 <a class="navbar-brand" href="./">
                                     <img src="assets/image/logo/logo.png" alt="logo">
+                                    <span style="font-size: 18px;font-weight:bolder;color:#f2770a">Rudra vedic yagya
+                                        sansthan</span>
                                 </a>
                                 <div class="collapse navbar-collapse mean-menu" style="display: block;">
                                     <ul class="navbar-nav">

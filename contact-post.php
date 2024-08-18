@@ -22,7 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 padding: 0;
             }
             .container {
-                background-color: rgba(255, 255, 255, 0.3);
+                background-color: #f2770a;
                 backdrop-filter: blur(10px);
                 width: 80%;
                 margin: 50px auto;
