@@ -73,10 +73,10 @@
                     <div class="row">
                         <div class="astrology-responsive-menu">
                             <div class="logo">
-                                <a href="./">
+                                <a href="./" class="d-flex">
                                     <img src="assets/image/logo/logo.png" alt="logo">
-                                    <span style="font-size: 18px;font-weight:bolder;color:#f2770a">Rudra vedic yagya
-                                        sansthan</span>
+                                    <!-- <span style="font-size: 18px;font-weight:bolder;color:#f2770a">Rudra vedic yagya
+                                        sansthan</span> -->
                                 </a>
                             </div>
                             <div class="others-option align-items-center">
