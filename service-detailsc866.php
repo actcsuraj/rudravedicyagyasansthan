@@ -48,7 +48,7 @@
 						difficulties of life. It makes a person physically and mentally fearless and very strong. To
 						please Hanuman ji, we worship Bajrangbali. Our Lord Pawan Putra Puja conducted in connection
 						with the rituals and mantras of Vedic astrology can bestow life-changing results like success,
-						peace and prosperity in your life. Our expert trusted and learned Pandits provide the essential
+						peace and prosperity in your life. Our expert trusted and learned Vedacharyas provide the essential
 						Hanuman Puja Benefits and follow the right Puja Vidhi which shows our commitment to serve you
 						professionally.https://www.cucosplay.com/<br />
 						&nbsp;</p>

@@ -23,11 +23,11 @@
 					<div class="about_text wow slideInLeft">
 						<h2>Rudra Vedic Yagya Sansthan </h2>
 						<p>Rudra Vedic Yagya Sansthan is a trusted and renowned foundation of a globally
-							prosperous family. Pandit Saurabh Kumar Pandey furthered his imagination and laid its
+							prosperous family. Vedacharya Saurabh Kumar Pandey furthered his imagination and laid its
 							foundation in the year 2018 and in a short time established a satisfied and prosperous
 							family all over the world through Vedic Yagya, Vedic astrology and Vedic rites. It is a
 							pure Vedic foundation and has a duty to comply with the rules of the Vedic tradition.
-							All the pandits of this foundation are well qualified and graduate from Maharishi Veda
+							All the Vedacharyas of this foundation are well qualified and graduate from Maharishi Veda
 							vigyan vishwavidyalaya. This foundation is constantly striving for the satisfaction of
 							its families (customers) and takes the services of qualified pundits on time and demand
 							basis. Our intention and effort is to build a satisfied family. without hesitation to

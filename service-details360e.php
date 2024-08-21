@@ -72,13 +72,13 @@
 						the Rudrabhishek Puja. It bestows prosperity and fulfillment, eliminates negativity, and
 						purifies bad karma.</p>
 
-					<p><strong>Performed Sawan Yagya by Vedic Pandits for Your Desires.&nbsp;<br />
-							Our highly trained Vedic Pandits perform Rudrabhishek Puja and Yagya with utmost devotion to
+					<p><strong>Performed Sawan Yagya by Vedic Vedacharyas for Your Desires.&nbsp;<br />
+							Our highly trained Vedic Vedacharyas perform Rudrabhishek Puja and Yagya with utmost devotion to
 							ensure the fulfillment of your deepest desires.</strong></p>
 
-					<p><big>Sawan Special Puja in Kashi (Varanasi) by Rudra Vedic Yagya Sansthan. International
+					<p><big>Sawan Special Puja in Kashi (Prayagraj) by Rudra Vedic Yagya Sansthan. International
 							Vedic Foundation is proud to organize Sawan Special Puja (Yagya) in the holy city of Kashi,
-							Vishwanath Nagari (Varanasi).</big></p>
+							Vishwanath Nagari (Prayagraj).</big></p>
 
 					<p>&nbsp;</p>
 
@@ -159,7 +159,7 @@
 
 					<p><strong><big>2. Where does Rudra Vedic Yagya Sansthan perform Pujas?</big></strong></p>
 
-					<p><big>At Rudra Vedic Yagya Sansthan, we perform all puja at our puja centre in Varanasi
+					<p><big>At Rudra Vedic Yagya Sansthan, we perform all puja at our puja centre in Prayagraj
 							(INDIA), which has been spiritually cleansing and energized by Vastu principles.</big></p>
 
 					<p><strong><big>3. How will I get the information about the Puja?</big></strong></p>
@@ -181,26 +181,26 @@
 
 					<p><big>The total duration of the puja will be 2&nbsp;hours.</big></p>
 
-					<p><strong><big>7. How many Vedic Pandits will perform the Yagya and for how many days will the
+					<p><strong><big>7. How many Vedic Vedacharyas will perform the Yagya and for how many days will the
 								Yagya continue?</big></strong></p>
 
-					<p><big>1 Vedic Pandits, 29&nbsp;Day...&nbsp;</big></p>
+					<p><big>1 Vedic Vedacharyas, 29&nbsp;Day...&nbsp;</big></p>
 
 					<p><strong><big>8. What will we get as Prasad after the puja is over?</big></strong></p>
 
 					<p><big>Immediately after the completion of the puja, you will be blessed by mantras from Vedic
-							Pandits.</big></p>
+							Vedacharyas.</big></p>
 
 					<p><strong><big>9. Can I join the Yagya with my family?</big></strong></p>
 
 					<p><big>Yes, you can definitely participate in the Yagya with your family, you will have to inform
 							us before participating in the Yagya.</big></p>
 
-					<p><big><strong>10. Can I decide the day and Vedic Pandit for the Yagya as per my
+					<p><big><strong>10. Can I decide the day and Vedic Vedacharya for the Yagya as per my
 								convenience?</strong></big></p>
 
 					<p><big>Yes. For this you need to contact us personally, we will do the Yagya for as many days and
-							with as many Vedic Pandits as you want.</big></p>
+							with as many Vedic Vedacharyas as you want.</big></p>
 					</p>
 				</div>
 			</div>

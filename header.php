@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords"
-        content="Rudra Vedic Yagya Sansthan, Astrology,Yagya, Vedic Foundation, Pandits, Yagna, Yajna, Free Yagya Recommendation, Vedic Astrology,Astrology, Online Astrology, Horoscope, Online Horoscope, Free Online Horoscope, Astrologer, Online Astrologer, Astrology Online, Free Astrology" />
+        content="Rudra Vedic Yagya Sansthan, Astrology,Yagya, Vedic Foundation, Vedacharyas, Yagna, Yajna, Free Yagya Recommendation, Vedic Astrology,Astrology, Online Astrology, Horoscope, Online Horoscope, Free Online Horoscope, Astrologer, Online Astrologer, Astrology Online, Free Astrology" />
     <meta name="description"
         content="Best Yagya performances and free yagya suggestion from one of the most dominant and trusted Rudra Vedic Yagya Sansthan in India." />
     <link rel="icon" type="image/png" sizes="96x96" href="assets/image/logo/logo.png">

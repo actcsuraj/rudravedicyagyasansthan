@@ -97,7 +97,7 @@
 
 					<ul>
 						<li><strong>Yagya performing Date 9th of August to 19 of August.&nbsp;</strong></li>
-						<li><strong>Yagya going on 11 days. With 3 Vedic Pandits.&nbsp;</strong></li>
+						<li><strong>Yagya going on 11 days. With 3 Vedic Vedacharyas.&nbsp;</strong></li>
 						<li><strong>The yagya will continue for 1 hour.</strong></li>
 					</ul>
 					</p>

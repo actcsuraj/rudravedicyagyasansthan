@@ -73,7 +73,7 @@
 	<div id="home-silder" class="owl-carousel owl-theme">
 		<div class="item">
 			<img src="images/slider/1.jpg" width="100%" alt="silder images">
-			<!-- title="MAHARSHI VEDIC PANDITS"> -->
+			<!-- title="MAHARSHI VEDIC VedacharyaS"> -->
 		</div>
 		<div class="item">
 			<img src="images/slider/2.jpg" width="100%" alt="silder images">
@@ -291,7 +291,7 @@
 					<p class="wow fadeInDown animated">We ask you to order a free yagya suggestion. If you are
 						participating in the yagya for the first time or you are not well acquainted with the yagya,
 						then ask for the free yagna suggestion before ordering the yagya. Get the suggestion of free
-						Yagya by our Pandit Saurabh Kumar Pandey , who is expert of Vedic Yagya, Vedic Astrology. In
+						Yagya by our Vedacharya Saurabh Kumar Pandey , who is expert of Vedic Yagya, Vedic Astrology. In
 						the
 						suggestion of free Yagya, you can get information about the effects of the present planets
 						in your current life time. You can get free yagya tips to balance negative effects and
@@ -317,14 +317,14 @@
 					</div>
 					<div class="col-sm-6">
 						<div class="astrologers_experience">
-							<h3 class="wow fadeInDown animated number-counter" data-count-from="0" data-count-to="17"
+							<h3 class="wow fadeInDown animated number-counter" data-count-from="0" data-count-to="5"
 								data-count-speed="30"></h3>
 							<h5 class="wow fadeInDown animated">Qualified astrologers</h5>
 						</div>
 					</div>
 					<div class="col-sm-6">
 						<div class="astrologers_experience">
-							<h3 class="wow fadeInDown animated number-counter" data-count-from="0" data-count-to="1200"
+							<h3 class="wow fadeInDown animated number-counter" data-count-from="0" data-count-to="20"
 								data-count-speed="30"></h3>
 							<h5 class="wow fadeInDown animated">Hourly visitors</h5>
 						</div>
@@ -347,7 +347,7 @@
 						<h4 class="wow fadeInDown animated"><a href="services.php">bhishekam Vedic Rituals
 								yagya.</a></h4>
 						<p class="wow fadeInDown animated">We do this every day, this yagya lord shiva
-							Riludrabhishekam. 1-3 is done by trained and well experienced Vedic pandits who help in
+							Riludrabhishekam. 1-3 is done by trained and well experienced Vedic Vedacharyas who help in
 							all aspects. You can also participate in this yagya according to your purpose. You can
 							choose between 1-3-6-12 months in this yagya depending on your choice of mind.</p>
 					</div>
@@ -359,7 +359,7 @@
 						<h4 class="wow fadeInDown animated"><a href="services.php">Daily group business vedic
 								Rituals yagya (puja). </a></h4>
 						<p class="wow fadeInDown animated"> This yagya is done to get good success in business. This
-							is the group business yagya. It is done by trained Vedic pandits, you can participate in
+							is the group business yagya. It is done by trained Vedic Vedacharyas, you can participate in
 							this yagya according to your purpose. You can choose between 1-3-6-12 months in this
 							yagya depending on your choice. </p>
 						<br />
@@ -372,7 +372,7 @@
 						<h4 class="wow fadeInDown animated"><a href="services.php">Daily personal Business Vedic
 								Rituals Yagya. </a></h4>
 						<p class="wow fadeInDown animated">This yagya is done to get good success in business. This
-							is the personal business yagya. It is done by trained Vedic pandits, you can participate
+							is the personal business yagya. It is done by trained Vedic Vedacharyas, you can participate
 							in this yagya according to your purpose. You can choose between 1-3-6-12 months in this
 							yagya depending on your choice.</p>
 						<br />
@@ -385,7 +385,7 @@
 						<h4 class="wow fadeInDown animated"><a href="services.php">Daily personal Vedic Rituals
 								yagya</a></h4>
 						<p class="wow fadeInDown animated">This yagya is done individually, 1-3 are done by trained
-							Vedic pandits. You can participate in this yagya according to your purpose. You can
+							Vedic Vedacharyas. You can participate in this yagya according to your purpose. You can
 							choose between 1-3-6-12 months in this yagya depending on your choice. </p>
 					</div>
 				</div>
@@ -396,7 +396,7 @@
 						<h4 class="wow fadeInDown animated"><a href="services.php">Daily Group Vedic Rituals
 								yagya.</a></h4>
 						<p class="wow fadeInDown animated"> This yagna is performed by a group yagya, performed by
-							trained Vedic pandits, you can participate in this yagya according to your purpose. You
+							trained Vedic Vedacharyas, you can participate in this yagya according to your purpose. You
 							can choose between 1-3-6-12 months in this yagya depending on your choice. </p>
 					</div>
 				</div>
@@ -407,7 +407,7 @@
 						<h4 class="wow fadeInDown animated"><a href="services.php">Daily mantras chanting Vedic
 								Rituals yagya</a></h4>
 						<p class="wow fadeInDown animated"> In this yagya special Vedic mantras chanting by trained
-							Vedic pandits, you can order this yagya according to your purpose. You can choose
+							Vedic Vedacharyas, you can order this yagya according to your purpose. You can choose
 							between 1-3-6-12 months in this yagya depending on your choice. </p>
 					</div>
 				</div>
@@ -452,7 +452,7 @@
 					<div class="col-sm-12">
 						<div class="testimonial_inner_matter">
 							<img src="assets/image/testimonial/profile.png" class="wow fadeInDown animated">
-							<p class="wow fadeInDown animated">Vishal is a kind and generous Pandit who is
+							<p class="wow fadeInDown animated">Vishal is a kind and generous Vedacharya who is
 								knowledgeable about Yagya, Astrology (Jyotish), and many wonderful Vedic knowledge.
 								He is clear and quick with responses and is a guide along all stages of the path.
 							</p>

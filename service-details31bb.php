@@ -77,18 +77,18 @@
 						fulfilment to the devotees which includes satisfaction related to physical, mental and spiritual
 						peace.</p>
 
-					<p><strong><big>How many&nbsp;</big></strong><strong><big>Vedic pandits are (How much
+					<p><strong><big>How many&nbsp;</big></strong><strong><big>Vedic Vedacharyas are (How much
 								Donation)&nbsp;and for how many days will they perform Yagya?</big></strong></p>
 
-					<p><big><strong>1 Vedic Pandits, 9&nbsp;Days</strong> </big></p>
+					<p><big><strong>1 Vedic Vedacharyas, 9&nbsp;Days</strong> </big></p>
 
 					<p><big>&nbsp; &nbsp; &nbsp; &nbsp; $199/00</big></p>
 
-					<p><strong><big>3 Vedic Pandits, 9&nbsp;Days</big></strong></p>
+					<p><strong><big>3 Vedic Vedacharyas, 9&nbsp;Days</big></strong></p>
 
 					<p><big>&nbsp; &nbsp; &nbsp; &nbsp;$499/00</big></p>
 
-					<p><strong><big>5 Vedic Pandits, 9&nbsp;Days&nbsp;</big></strong></p>
+					<p><strong><big>5 Vedic Vedacharyas, 9&nbsp;Days&nbsp;</big></strong></p>
 
 					<p><big>&nbsp; &nbsp; &nbsp;$899/00</big></p>
 
@@ -105,7 +105,7 @@
 
 					<p><strong><big>Where does Rudra Vedic Yagya Sansthan perform Pujas?</big></strong></p>
 
-					<p><big>At Rudra Vedic Yagya Sansthan, we perform all puja at our puja centre in Varanasi
+					<p><big>At Rudra Vedic Yagya Sansthan, we perform all puja at our puja centre in Prayagraj
 							(INDIA), which has been spiritually cleansing and energized by Vastu principles.</big></p>
 
 					<p><strong><big>How will I get the information about the Puja?</big></strong></p>
@@ -127,15 +127,15 @@
 
 					<p><big>The total duration of the puja will be 5 hours.</big></p>
 
-					<p><strong><big>How many Vedic pandits are and for how many days will they perform
+					<p><strong><big>How many Vedic Vedacharyas are and for how many days will they perform
 								Yagya?</big></strong></p>
 
-					<p><big>1 Vedic Pandits, 9&nbsp;Day...&nbsp;</big></p>
+					<p><big>1 Vedic Vedacharyas, 9&nbsp;Day...&nbsp;</big></p>
 
 					<p><strong><big>What will we get as Prasad after the puja is over?</big></strong></p>
 
 					<p><big>Immediately after the completion of the puja, you will be blessed by mantras from Vedic
-							Pandits.</big></p>
+							Vedacharyas.</big></p>
 					</p>
 				</div>
 			</div>

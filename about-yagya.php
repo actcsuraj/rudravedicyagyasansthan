@@ -32,8 +32,8 @@
 					<div class="col-sm-8">
 						<h3><a href="javascript:void(0)">What is Yagya? What is Vedic Yagya?</a></h3>
 						<p>(Vedic) Yagya is a spiritual practice.Is a blissful and divine action performed by a
-							group of Vedic Pandits, who sit together, and recite mantras and chant Vedic verses.
-							(Vedic Pandits: - scholars of Vedas)
+							group of Vedic Vedacharyas, who sit together, and recite mantras and chant Vedic verses.
+							(Vedic Vedacharyas: - scholars of Vedas)
 							This auspicious activity is performed with a very pure mind, deep meditation, purity of
 							thoughts and body. Yagya has its origin in the Sanskrit word.
 							The word Yagya is derived from the Yaj Dhatu of Sanskrit.
@@ -70,7 +70,7 @@
 						<p> The deeds in which people pray for food, rain, prosperity. The gods pray to Haviki from
 							the Yajaman, and the Karmoko Yajna is the one in which the mantras are predominant.Yajna
 							is the Karma-particular in which the deity, the lavya dravya, Vedamantra, (Ritvija means
-							vedic pandits) Ritvija and Dakshina - the combination of these five.In the first mantra
+							vedic Vedacharyas) Ritvija and Dakshina - the combination of these five.In the first mantra
 							Agnimidae Purohitam of the Rigveda, the post of Yagya has come, so it is proved that the
 							Veda and Yagya are related. Now we quote the words of many sage-maharishis, from which
 							the significance of yagya will be introduced beautifully.</p>
@@ -293,7 +293,7 @@
 									<p> Yagya is open for all of us to perform, (3C) perform yagna even in low
 										budget. </p>
 									<p> The number of mantras in the (2B) and (3C) category are lower with the
-										number of Vedic pandits performing Yajna. </p>
+										number of Vedic Vedacharyas performing Yajna. </p>
 								</div>
 							</div>
 
@@ -323,7 +323,7 @@
 										your yagya request.
 										This yagya will depend
 										on your wish price,
-										Vedic pandits and
+										Vedic Vedacharyas and
 										number of days of
 										performing the yagya.
 										You can contact before

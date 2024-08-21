@@ -64,7 +64,7 @@
 						<br />
 						Per day $21.00<br />
 						<br />
-						Per Vedic pandits.<br />
+						Per Vedic Vedacharyas.<br />
 						<br />
 						Benefits of offering Vilvapatra to Lord Shiva.<br />
 						<br />

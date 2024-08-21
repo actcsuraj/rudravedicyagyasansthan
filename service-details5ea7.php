@@ -53,7 +53,7 @@
 						mould in life. Rudrabhishek Puja and Yagya are performed by our well-trained Vedic pundits with
 						full dedication towards the fulfilment of one&#39;s aspiration. Rudrabhishek Yagya is being
 						organized on the auspicious occasion of the New Year. This Yagya will be performed by 3 Vedic
-						Pandits for 11 people for 30 days.</p>
+						Vedacharyas for 11 people for 30 days.</p>
 
 					<p><strong>Yagya performance date..</strong></p>
 

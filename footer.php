@@ -42,9 +42,7 @@
                             <li class="wow fadeInDown animated"><a href="javascript:void(0)"><i
                                         class="fa fa-angle-right" aria-hidden="true"></i> Bank transfer</a>
                             </li>
-                            <li class="wow fadeInDown animated"><a href="javascript:void(0)"><i
-                                        class="fa fa-angle-right" aria-hidden="true"></i> Western Union </a>
-                            </li>
+
 
 
                             <p style="color:#000;"><i class="fa fa-cc-visa fa-2x">&nbsp;</i><i

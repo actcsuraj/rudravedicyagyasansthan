@@ -97,11 +97,11 @@
 
 					<p><strong>PARTICIPATE WITH FAMILY=</strong></p>
 
-					<p><strong>&nbsp;1 &nbsp;PANDIT &nbsp;50$&nbsp;</strong></p>
+					<p><strong>&nbsp;1 &nbsp;Vedacharya &nbsp;50$&nbsp;</strong></p>
 
-					<p><strong>3 PANDITS 59$</strong></p>
+					<p><strong>3 VedacharyaS 59$</strong></p>
 
-					<p><strong>5 PANDITS &nbsp;99</strong></p>
+					<p><strong>5 VedacharyaS &nbsp;99</strong></p>
 
 					<p>&nbsp;</p>
 

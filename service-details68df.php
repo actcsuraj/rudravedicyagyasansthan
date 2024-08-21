@@ -60,7 +60,7 @@
 						we surrender our bad qualities at the feet of God. There is also a tradition of offering it to
 						him forever and asking for the boon of good qualities.</p>
 
-					<p>On this auspicious occasion, all of us Vedic Pandits are organizing a special Yagya on Akshaya
+					<p>On this auspicious occasion, all of us Vedic Vedacharyas are organizing a special Yagya on Akshaya
 						Tritiya. All of you must participate in this Yagya on this auspicious occasion of Akshaya
 						Tritiya. Many such sins and bad deeds are committed by us knowingly and unknowingly, to get rid
 						of them all we must perform Yagya ritual on Akshaya Tritiya.&nbsp;</p>

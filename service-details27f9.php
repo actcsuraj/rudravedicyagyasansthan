@@ -44,7 +44,7 @@
 					<p>Maha Durga Puja is a symbol of Maa Durga. Maa Durga is the destroyer of tragedies, ignorance and
 						other ill effects of life. It helps in peace and spiritual attainment in life. This Durga Puja
 						is very beneficial to ward off imminent danger, court cases and political litigation. Our
-						special Pandits and Acharyas working under the able guidance of our team of astrologers perform
+						special Vedacharyas and Acharyas working under the able guidance of our team of astrologers perform
 						this Yagya as per the instructions given in Durga Saptarishi, a part of Markandeya Puranas. Maa
 						Durga is considered the divine destroyer of accidents, tragedies, sufferings as well as
 						ignorance.<br />

@@ -59,7 +59,7 @@
 						very special care in performing this Yagya. We take utmost care for a selection of places, from
 						where the clay of Shiv Lingam is to be taken, to the selection of fruit, leaves and flowers, and
 						ultimately the place and time for Visarjan of Shiva Lingam. The result of this Yagya can be best
-						derived when it is performed on Pradosh days or Shivartri days. Our special Panditas and
+						derived when it is performed on Pradosh days or Shivartri days. Our special Vedacharyaas and
 						Aacharayas, who are working under the ingenious guidance of Astrologer Saurabh Kumar Pandey are
 						specialized in this Yagya.</p>
 

@@ -122,7 +122,7 @@
 
 					<p><strong><big>Where does Rudra Vedic Yagya Sansthan perform Pujas?</big></strong></p>
 
-					<p><big>At Rudra Vedic Yagya Sansthan, we perform all puja at our puja centre in Varanasi
+					<p><big>At Rudra Vedic Yagya Sansthan, we perform all puja at our puja centre in Prayagraj
 							(INDIA), which has been spiritually cleansing and energized by Vastu principles.</big></p>
 
 					<p><strong><big>How will I get the information about the Puja?</big></strong></p>
@@ -144,15 +144,15 @@
 
 					<p><big>The total duration of the puja will be 5 hours.</big></p>
 
-					<p><strong><big>How many Vedic pandits are in this world and for how many days will they perform
+					<p><strong><big>How many Vedic Vedacharyas are in this world and for how many days will they perform
 								Yagya?</big></strong></p>
 
-					<p><big>3 Vedic Pandits, 9 Days...&nbsp;</big></p>
+					<p><big>3 Vedic Vedacharyas, 9 Days...&nbsp;</big></p>
 
 					<p><strong><big>What will we get as Prasad after the puja is over?</big></strong></p>
 
 					<p><big>Immediately after the completion of the puja, you will be blessed by mantras from Vedic
-							Pandits.</big></p>
+							Vedacharyas.</big></p>
 					</p>
 				</div>
 			</div>
