@@ -269,7 +269,7 @@
 									<p> We all do regular Transcendental Meditation and siddhi programs, Sandhya
 										puja..
 										We receive payments through all payments coming to India (bank transfer,
-										PayPal, or Western Union). </p>
+										PayPal). </p>
 
 								</div>
 							</div>
