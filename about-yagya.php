@@ -274,31 +274,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="panel panel-default">
-							<div class="panel-heading" role="tab" id="headingTwo">
-								<h4 class="panel-title">
-									<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
-										href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"
-										onclick="ga('send', 'event', 'Button', 'Click', 'Program Eligibility', 1);">
-										<i class="fa fa-arrow-circle-right"></i>
-										Vedic Rituals Yagya (puja) category selection
-									</a>
-								</h4>
-							</div>
-							<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel"
-								aria-labelledby="headingTwo">
-								<div class="panel-body">
-									<p> We suggest for the selection of Yagna (1A) category of best effect. </p>
-									<p> (2B) Category can choose Yagya according to their budget. </p>
-									<p> Yagya is open for all of us to perform, (3C) perform yagna even in low
-										budget. </p>
-									<p> The number of mantras in the (2B) and (3C) category are lower with the
-										number of Vedic Vedacharyas performing Yajna. </p>
-								</div>
-							</div>
 
-
-						</div>
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="headingThree">
 								<h4 class="panel-title">
