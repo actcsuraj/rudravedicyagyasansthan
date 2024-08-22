@@ -21,7 +21,7 @@
 				<div class="col-md-6">
 					<div class="services_images ">
 						<img class="wow fadeInDown animated"
-							src="images/astrology/marriage-maching-report-1691399879.jpg" alt="Kundli Dosha"
+							src="images/astrology/maching report.png" alt="Kundli Dosha"
 							title="Kundli Dosha" width="100%">
 					</div>
 				</div>

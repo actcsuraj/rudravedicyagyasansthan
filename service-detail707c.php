@@ -20,7 +20,7 @@
 			<div class="row">
 				<div class="col-md-6">
 					<div class="services_images ">
-						<img class="wow fadeInDown animated" src="images/astrology/career-report-1691398858.jpg"
+						<img class="wow fadeInDown animated" src="images/astrology/career report.png"
 							alt="Kundli Dosha" title="Kundli Dosha" width="100%">
 					</div>
 				</div>

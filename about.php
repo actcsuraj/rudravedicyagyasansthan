@@ -24,7 +24,7 @@
 						<h2>Rudra Vedic Yagya Sansthan </h2>
 						<p>Rudra Vedic Yagya Sansthan is a trusted and renowned yagya sansthan of a globally
 							prosperous family. Vedacharya Saurabh Kumar Pandey furthered his imagination and laid its
-							yagya sansthan in the year 2018 and in a short time established a satisfied and prosperous
+							yagya sansthan in the year 2013 and in a short time established a satisfied and prosperous
 							family all over the world through Vedic Yagya, Vedic astrology and Vedic rites. It is a
 							pure Vedic yagya sansthan and has a duty to comply with the rules of the Vedic tradition.
 							All the Vedacharyas of this yagya sansthan are well qualified and graduate from Maharishi

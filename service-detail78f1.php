@@ -4,7 +4,7 @@
 	<div class="container-fluid">
 		<div class="row">
 			<div class="breadcrumb-content">
-				<h2>HELTH REPORT</h2>
+				<h2>HEALTH REPORT</h2>
 				<ul>
 					<li><a href="./">Home</a></li>
 					<li><a href="javascript:void(0)">Service Details</a></li>
@@ -20,14 +20,14 @@
 			<div class="row">
 				<div class="col-md-6">
 					<div class="services_images ">
-						<img class="wow fadeInDown animated" src="images/astrology/health-report-1691398816.jpg"
+						<img class="wow fadeInDown animated" src="images/astrology/health report.png"
 							alt="Kundli Dosha" title="Kundli Dosha" width="100%">
 					</div>
 				</div>
 				<div class="col-md-6">
 					<div class="services_matter">
 						<h2 class="wow fadeInDown animated"><a href="javascript:void(0)">
-								HELTH REPORT </a></h2>
+								HEALTH REPORT </a></h2>
 						<p class="wow fadeInDown animated">It informs you about the problems that you are completely
 							unaware of. </p>
 					</div>
