@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords"
-        content="Rudra Vedic Yagya Sansthan, Astrology,Yagya, Vedic Foundation, Vedacharyas, Yagna, Yajna, Free Yagya Recommendation, Vedic Astrology,Astrology, Online Astrology, Horoscope, Online Horoscope, Free Online Horoscope, Astrologer, Online Astrologer, Astrology Online, Free Astrology" />
+        content="Rudra Vedic Yagya Sansthan, Astrology,Yagya, Vedic yagya sansthan, Vedacharyas, Yagna, Yajna, Free Yagya Recommendation, Vedic Astrology,Astrology, Online Astrology, Horoscope, Online Horoscope, Free Online Horoscope, Astrologer, Online Astrologer, Astrology Online, Free Astrology" />
     <meta name="description"
         content="Best Yagya performances and free yagya suggestion from one of the most dominant and trusted Rudra Vedic Yagya Sansthan in India." />
     <link rel="icon" type="image/png" sizes="96x96" href="assets/image/logo/logo.png">
@@ -74,41 +74,52 @@
                         <div class="astrology-responsive-menu">
                             <div class="logo">
                                 <a href="./" class="d-flex">
-                                    <img src="assets/image/logo/logo.png" alt="logo">
-                                    <!-- <span style="font-size: 18px;font-weight:bolder;color:#f2770a">Rudra vedic yagya
-                                        sansthan</span> -->
+                                    <img src="assets/image/logo/logo.png" alt="logo" style="max-width:100px">
+                                    <span style="font-size: 13px;font-weight:bolder;color:#f2770a">Rudra vedic yagya
+                                        sansthan</span>
                                 </a>
-                            </div>
-                            <div class="others-option align-items-center">
-                                <div class="option-item">
-                                    <a href="contact.php" class="btn"> Appointment</a>
-                                </div>
-                            </div>
+                            </div>  
                             <!--mobile Menu  -->
                             <div id="mySidenav" class="sidenav">
                                 <div class="menu_slid_bg">
                                     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
                                     <div class="col-sm-12" style="padding:0px;">
+                                        <?php
+                                        $currentPage = basename($_SERVER['SCRIPT_NAME']);
+                                        ?>
+
                                         <ul class="accordion" id="accordion-category">
                                             <li class="panel mobile_menu_li">
-                                                <a href="./" class=""></i> HOME</a>
+                                                <a href="./"
+                                                    class="<?php echo $currentPage == 'index.php' ? 'active' : ''; ?>">HOME</a>
                                             </li>
                                             <li class="panel mobile_menu_li">
-                                                <a href="about.php" class=""></i> ABOUT US</a>
+                                                <a href="about.php"
+                                                    class="<?php echo $currentPage == 'about.php' ? 'active' : ''; ?>">ABOUT
+                                                    US</a>
                                             </li>
                                             <li class="panel mobile_menu_li">
-                                                <a href="about-yagya.php" class=""></i> ABOUT YAGYA</a>
+                                                <a href="about-yagya.php"
+                                                    class="<?php echo $currentPage == 'about-yagya.php' ? 'active' : ''; ?>">ABOUT
+                                                    YAGYA</a>
                                             </li>
                                             <li class="panel mobile_menu_li">
-                                                <a href="astrology-services.php" class=""></i> ASTROLOGY SERVICES</a>
+                                                <a href="astrology-services.php"
+                                                    class="<?php echo $currentPage == 'astrology-services.php' ? 'active' : ''; ?>">ASTROLOGY
+                                                    SERVICES</a>
                                             </li>
                                             <li class="panel mobile_menu_li">
-                                                <a href="yagya-services.php" class=""></i> YAGYA SERVICES</a>
+                                                <a href="yagya-services.php"
+                                                    class="<?php echo $currentPage == 'yagya-services.php' ? 'active' : ''; ?>">YAGYA
+                                                    SERVICES</a>
                                             </li>
                                             <li class="panel mobile_menu_li">
-                                                <a href="contact.php" class=""> CONTACT US</a>
+                                                <a href="contact.php"
+                                                    class="<?php echo $currentPage == 'contact.php' ? 'active' : ''; ?>">CONTACT
+                                                    US</a>
                                             </li>
                                         </ul>
+
                                         <div class="clear"></div>
                                     </div>
                                 </div>
@@ -130,19 +141,41 @@
                                         sansthan</span>
                                 </a>
                                 <div class="collapse navbar-collapse mean-menu" style="display: block;">
+                                    <?php
+                                    $currentPage = basename($_SERVER['SCRIPT_NAME']);
+                                    ?>
+
                                     <ul class="navbar-nav">
-                                        <li class="nav-item"><a href="./" class="nav-link active"> HOME</a></li>
-                                        <li class="nav-item"><a href="about.php" class="nav-link"> ABOUT US </a></li>
-                                        <li class="nav-item"><a href="about-yagya.php" class="nav-link"> ABOUT YAGYA
-                                            </a></li>
-                                        <li class="nav-item"><a href="astrology-services.php" class="nav-link">ASTROLOGY
-                                                SERVICES </a>
+                                        <li class="nav-item">
+                                            <a href="./"
+                                                class="nav-link <?php echo $currentPage == 'index.php' ? 'active' : ''; ?>">HOME</a>
                                         </li>
-                                        <li class="nav-item"><a href="yagya-services.php" class="nav-link">YAGYA
-                                                SERVICES </a>
+                                        <li class="nav-item">
+                                            <a href="about.php"
+                                                class="nav-link <?php echo $currentPage == 'about.php' ? 'active' : ''; ?>">ABOUT
+                                                US</a>
                                         </li>
-                                        <li class="nav-item"><a href="contact.php" class="nav-link">CONTACT</a></li>
+                                        <li class="nav-item">
+                                            <a href="about-yagya.php"
+                                                class="nav-link <?php echo $currentPage == 'about-yagya.php' ? 'active' : ''; ?>">ABOUT
+                                                YAGYA</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="astrology-services.php"
+                                                class="nav-link <?php echo $currentPage == 'astrology-services.php' ? 'active' : ''; ?>">ASTROLOGY
+                                                SERVICES</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="yagya-services.php"
+                                                class="nav-link <?php echo $currentPage == 'yagya-services.php' ? 'active' : ''; ?>">YAGYA
+                                                SERVICES</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="contact.php"
+                                                class="nav-link <?php echo $currentPage == 'contact.php' ? 'active' : ''; ?>">CONTACT</a>
+                                        </li>
                                     </ul>
+
                                 </div>
                             </nav>
                             <div class="clear"></div>

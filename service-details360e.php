@@ -77,7 +77,7 @@
 							ensure the fulfillment of your deepest desires.</strong></p>
 
 					<p><big>Sawan Special Puja in Kashi (Prayagraj) by Rudra Vedic Yagya Sansthan. International
-							Vedic Foundation is proud to organize Sawan Special Puja (Yagya) in the holy city of Kashi,
+							Vedic yagya sansthan is proud to organize Sawan Special Puja (Yagya) in the holy city of Kashi,
 							Vishwanath Nagari (Prayagraj).</big></p>
 
 					<p>&nbsp;</p>

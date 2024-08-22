@@ -22,13 +22,14 @@
 				<div class="col-sm-6">
 					<div class="about_text wow slideInLeft">
 						<h2>Rudra Vedic Yagya Sansthan </h2>
-						<p>Rudra Vedic Yagya Sansthan is a trusted and renowned foundation of a globally
+						<p>Rudra Vedic Yagya Sansthan is a trusted and renowned yagya sansthan of a globally
 							prosperous family. Vedacharya Saurabh Kumar Pandey furthered his imagination and laid its
-							foundation in the year 2018 and in a short time established a satisfied and prosperous
+							yagya sansthan in the year 2018 and in a short time established a satisfied and prosperous
 							family all over the world through Vedic Yagya, Vedic astrology and Vedic rites. It is a
-							pure Vedic foundation and has a duty to comply with the rules of the Vedic tradition.
-							All the Vedacharyas of this foundation are well qualified and graduate from Maharishi Veda
-							vigyan vishwavidyalaya. This foundation is constantly striving for the satisfaction of
+							pure Vedic yagya sansthan and has a duty to comply with the rules of the Vedic tradition.
+							All the Vedacharyas of this yagya sansthan are well qualified and graduate from Maharishi
+							Veda
+							vigyan vishwavidyalaya. This yagya sansthan is constantly striving for the satisfaction of
 							its families (customers) and takes the services of qualified pundits on time and demand
 							basis. Our intention and effort is to build a satisfied family. without hesitation to
 							contact for any question</p>
@@ -46,11 +47,11 @@
 				<div class="col-sm-12">
 					<div class="about_text wow slideInLeft">
 						<p>We are one of the suppliers of Vedic Yagya, Vedic Astrology globally. America, Canada,
-							Columbia, Australia, Lebanon, Israel, Malaysia, Philippines, Mauritius, Thailand, China,
-							Singapore, Qatar, England, Ireland, Germany, Serbia, Ukraine, Portugal, Spain, Brazil,
-							Belgium, Norway, France, Netherland, Zimbabwe, Vietnam, Turkey, Russia, Peru, New
-							Zealand, Nepal, Mongolia, Japan, Dubai, Kuwait, Iceland, Denmark, Croatia, Chile, Libya,
-							Iran,Hungary, grace, Mexico, Sri Lanka, Sweden, Switzerland, South Africa, Ontario.</p>
+							Columbia, Australia, Israel, Malaysia, Philippines, Mauritius, Thailand, China,
+							Singapore, England, Ireland, Germany, Serbia, Ukraine, Portugal, Spain, Brazil,
+							Belgium, Norway, France, Netherlands, Zimbabwe, Vietnam, Russia, Peru, New
+							Zealand, Nepal, Mongolia, Japan, Iceland, Denmark, Croatia, Chile, Hungary, Greece, Mexico,
+							Sri Lanka, Sweden, Switzerland, South Africa, Ontario.</p>
 					</div>
 				</div>
 			</div><br />

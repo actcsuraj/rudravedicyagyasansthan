@@ -9,7 +9,7 @@
                             class="img-responsive wow fadeInDown animated" width="200px">
                         <h3 class="wow fadeInDown animated"> +91-7652041630</h3>
                         <p class="wow fadeInDown animated">Rudra Vedic Yagya Sansthan is a trusted and renowned
-                            foundation of a globally prosperous family. </p>
+                            yagya sansthan of a globally prosperous family. </p>
                         <ul>
                             <li class="wow fadeInDown animated"><a
                                     href="https://www.facebook.com/people/Rudra-Vedic-Yagya-Sansthan/61564435944180/"><i

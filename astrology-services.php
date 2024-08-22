@@ -283,7 +283,7 @@
 				<div class="col-sm-4">
 					<div class="services_matter sv-img">
 						<a href="service-detaila2b0.php?astrology=all-yoga-report-850390">
-							<img class="wow fadeInDown animated" src="images/astrology/all-yoga-report-1691399446.jpg"
+							<img class="wow fadeInDown animated" src="images/astrology/all yoga report.png"
 								width="100%">
 							<h4 class="wow fadeInDown animated"><a
 									href="service-detaila2b0.php?astrology=all-yoga-report-850390">ALL YOGA
