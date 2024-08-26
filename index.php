@@ -428,7 +428,7 @@
 					<div class="col-sm-12">
 						<div class="testimonial_inner_matter">
 							<img src="assets/image/testimonial/profile.png" class="wow fadeInDown animated">
-							<p class="wow fadeInDown animated">Vishal is a very energetic and talented astrologer.,
+							<p class="wow fadeInDown animated">Vedacharya Saurabh Kumar is a very energetic and talented astrologer.,
 								with great expertise in Vedic yagyas. Very helpful, easy to talk to and provides a
 								wealth of knowledge. I recommend him highly for consultation and guidance.</p>
 							<h5 class="wow fadeInDown animated">Sahil</h5>
@@ -440,9 +440,9 @@
 					<div class="col-sm-12">
 						<div class="testimonial_inner_matter">
 							<img src="assets/image/testimonial/profile.png" class="wow fadeInDown animated">
-							<p class="wow fadeInDown animated">I had a astrology rapport from Vishal Bhardwai, it
+							<p class="wow fadeInDown animated">I had a astrology rapport from Vedacharya Saurabh Kumar, it
 								was very good made and he spent a lot of work on it, and everything in it was truth,
-								so good, i was surprised about it. Thank 's a lot Vishal Bardwaj. Best regards</p>
+								so good, i was surprised about it. Thank 's a lot Vedacharya Saurabh Kumar. Best regards</p>
 							<h5 class="wow fadeInDown animated"> Johnson Massey</h5>
 							<p class="text-center"> USA </p>
 						</div>
@@ -452,7 +452,7 @@
 					<div class="col-sm-12">
 						<div class="testimonial_inner_matter">
 							<img src="assets/image/testimonial/profile.png" class="wow fadeInDown animated">
-							<p class="wow fadeInDown animated">Vishal is a kind and generous Vedacharya who is
+							<p class="wow fadeInDown animated">Vedacharya Saurabh Kumar is a kind and generous Vedacharya who is
 								knowledgeable about Yagya, Astrology (Jyotish), and many wonderful Vedic knowledge.
 								He is clear and quick with responses and is a guide along all stages of the path.
 							</p>
@@ -479,7 +479,7 @@
 					<div class="col-sm-12">
 						<div class="testimonial_inner_matter">
 							<img src="assets/image/testimonial/profile.png" class="wow fadeInDown animated">
-							<p class="wow fadeInDown animated">Vishal has good knowledge of astrology, Vedic yagya and
+							<p class="wow fadeInDown animated">Vedacharya Saurabh Kumar has good knowledge of astrology, Vedic yagya and
 								spiritual practices. Had multiple positive conversations and extremely content to get a
 								different perspective.</p>
 							<h5 class="wow fadeInDown animated"> Rahul </h5>

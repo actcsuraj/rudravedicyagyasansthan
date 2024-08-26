@@ -25,8 +25,7 @@
 						<p>We are available 24/7 by e-mail or by phone. You can also use our quick contact form to
 							ask a question about our services.</p>
 						<div class="comments-form-wrapper clearfix comment-respond">
-							<form class="comment-form" method="post"
-								action="contact-post.php">
+							<form class="comment-form" method="post" action="contact-post.php">
 								<div class="field">
 									<label for="name"> Name <em class="required">*</em></label>
 									<input type="text" class="input-text" title="Name" name="e_name" required="">
@@ -38,11 +37,13 @@
 								</div>
 								<div class="field">
 									<label for="email"> Email <em class="required">*</em></label>
-									<input type="text" class="input-text validate-email" title="Email" name="e_email" required>
+									<input type="text" class="input-text validate-email" title="Email" name="e_email"
+										required>
 								</div>
 								<div class="field">
 									<label for="email"> City <em class="required">*</em></label>
-									<input type="text" class="input-text validate-email" title="City" name="e_city" required>
+									<input type="text" class="input-text validate-email" title="City" name="e_city"
+										required>
 								</div>
 
 								<div class="field">
@@ -54,8 +55,8 @@
 								<div class="clear"></div>
 								<div class="field aw-blog-comment-area">
 									<label for="comment">Enter Message</label>
-									<textarea rows="5" cols="50" class="input-text" title="Comment"
-										name="e_message" required></textarea>
+									<textarea rows="5" cols="50" class="input-text" title="Comment" name="e_message"
+										required></textarea>
 								</div>
 								<div style="width:96%" class="button-set">
 									<button type="submit" class="btn submit" name="submit"><span><span> Submit
@@ -95,9 +96,13 @@
 							</div>
 							<div class="contact-box-item">
 								<p class="contact-box-title">Address</p>
-								<div class="link-inline link-inline-top"><a href="javascript:void(0)"><i
-											class="fa fa-map-marker"></i> Adiguru Shri Dattatrey ved vidyalay Naini
-										Prayagraj 211008</a></div>
+								<div class="link-inline link-inline-top">
+									<a href="javascript:void(0)"><i class="fa fa-map-marker"></i> Adiguru Shri Dattatrey
+										ved vidyalay Naini
+										Prayagraj 211008</a><br>
+									<a href="javascript:void(0)"><i class="fa fa-map-marker"></i>Anand vatika, nikat
+										chaitanya vihar fly over, shridham vrindavan mathura uttar pradesh </a>
+								</div>
 							</div>
 						</div>
 					</div>
