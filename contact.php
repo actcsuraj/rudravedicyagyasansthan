@@ -100,6 +100,7 @@
 									<a href="javascript:void(0)"><i class="fa fa-map-marker"></i> Adiguru Shri Dattatrey
 										ved vidyalay Naini
 										Prayagraj 211008</a><br>
+									<br>
 									<a href="javascript:void(0)"><i class="fa fa-map-marker"></i>Anand vatika, nikat
 										chaitanya vihar fly over, shridham vrindavan mathura uttar pradesh </a>
 								</div>
