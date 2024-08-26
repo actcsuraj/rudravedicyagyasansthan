@@ -37,7 +37,6 @@
 				<div class="services_matter">
 					<h2 class="wow fadeInDown animated"> Description </h2>
 					<p class="wow fadeInDown animated">
-					<p>english font&nbsp;</p>
 					</p>
 				</div>
 			</div>

@@ -139,7 +139,7 @@
 						<img src="assets/image/rashi/icon1.png" alt="icon1">
 					</div>
 					<div class="sign_box_cont">
-						<a href="book-astrology.php">
+						<a href="booking.php">
 							<h4> Career </h4>
 						</a>
 					</div>
@@ -151,7 +151,7 @@
 						<img src="assets/image/rashi/icon2.png" alt="icon2">
 					</div>
 					<div class="sign_box_cont">
-						<a href="book-astrology.php">
+						<a href="booking.php">
 							<h4>Marriage</h4>
 						</a>
 					</div>
@@ -163,7 +163,7 @@
 						<img src="assets/image/rashi/icon3.png" alt="icon3">
 					</div>
 					<div class="sign_box_cont">
-						<a href="booking-form.php">
+						<a href="booking.php">
 							<h4>Worship Lesson</h2>
 						</a>
 					</div>
@@ -175,7 +175,7 @@
 						<img src="assets/image/rashi/icon4.png" alt="icon4">
 					</div>
 					<div class="sign_box_cont">
-						<a href="book-astrology.php">
+						<a href="booking.php">
 							<h4>Pregnancy</h4>
 						</a>
 					</div>
@@ -187,7 +187,7 @@
 						<img src="assets/image/rashi/icon5.png" alt="icon5">
 					</div>
 					<div class="sign_box_cont">
-						<a href="book-astrology.php">
+						<a href="booking.php">
 							<h4>Mangal Dosha</h4>
 						</a>
 					</div>
@@ -199,7 +199,7 @@
 						<img src="assets/image/rashi/icon6.png" alt="icon6">
 					</div>
 					<div class="sign_box_cont">
-						<a href="book-astrology.php">
+						<a href="booking.php">
 							<h4>Kundali Dosh</h4>
 						</a>
 					</div>
@@ -211,7 +211,7 @@
 						<img src="assets/image/rashi/icon7.png" alt="icon7">
 					</div>
 					<div class="sign_box_cont">
-						<a href="book-astrology.php">
+						<a href="booking.php">
 							<h4>Festivals</h4>
 						</a>
 					</div>
@@ -223,7 +223,7 @@
 						<img src="assets/image/rashi/icon8.png" alt="icon8">
 					</div>
 					<div class="sign_box_cont">
-						<a href="book-astrology.php">
+						<a href="booking.php">
 							<h4>Name Analysis</h4>
 						</a>
 					</div>
@@ -235,7 +235,7 @@
 						<img src="assets/image/rashi/icon9.png" alt="icon9">
 					</div>
 					<div class="sign_box_cont">
-						<a href="book-astrology.php">
+						<a href="booking.php">
 							<h4>Kaalsarp Yog</h4>
 						</a>
 					</div>
@@ -247,7 +247,7 @@
 						<img src="assets/image/rashi/icon10.png" alt="icon10">
 					</div>
 					<div class="sign_box_cont">
-						<a href="book-astrology.php">
+						<a href="booking.php">
 							<h4>Sade-Sati Report</h4>
 						</a>
 					</div>
@@ -259,7 +259,7 @@
 						<img src="assets/image/rashi/icon11.png" alt="icon11">
 					</div>
 					<div class="sign_box_cont">
-						<a href="book-astrology.php">
+						<a href="booking.php">
 							<h4>Vastu Shastra</h4>
 						</a>
 					</div>
@@ -271,7 +271,7 @@
 						<img src="assets/image/rashi/icon12.png" alt="icon12">
 					</div>
 					<div class="sign_box_cont">
-						<a href="book-astrology.php">
+						<a href="booking.php">
 							<h4>Free Kundli</h4>
 						</a>
 					</div>
@@ -424,31 +424,31 @@
 		</div>
 		<div class="row">
 			<div id="testimonial" class="owl-carousel owl-theme">
-				<div class="item">
+				<div class="item ">
 					<div class="col-sm-12">
 						<div class="testimonial_inner_matter">
 							<img src="assets/image/testimonial/profile.png" class="wow fadeInDown animated">
 							<p class="wow fadeInDown animated">Vishal is a very energetic and talented astrologer.,
 								with great expertise in Vedic yagyas. Very helpful, easy to talk to and provides a
 								wealth of knowledge. I recommend him highly for consultation and guidance.</p>
-							<h5 class="wow fadeInDown animated">Raju Hajela</h5>
+							<h5 class="wow fadeInDown animated">Sahil</h5>
 							<p class="text-center"> Canada </p>
 						</div>
 					</div>
 				</div>
-				<div class="item">
+				<div class="item ">
 					<div class="col-sm-12">
 						<div class="testimonial_inner_matter">
 							<img src="assets/image/testimonial/profile.png" class="wow fadeInDown animated">
 							<p class="wow fadeInDown animated">I had a astrology rapport from Vishal Bhardwai, it
 								was very good made and he spent a lot of work on it, and everything in it was truth,
 								so good, i was surprised about it. Thank 's a lot Vishal Bardwaj. Best regards</p>
-							<h5 class="wow fadeInDown animated"> Dorien Jansen</h5>
-							<p class="text-center"> Netherland </p>
+							<h5 class="wow fadeInDown animated"> Johnson Massey</h5>
+							<p class="text-center"> USA </p>
 						</div>
 					</div>
 				</div>
-				<div class="item">
+				<div class="item ">
 					<div class="col-sm-12">
 						<div class="testimonial_inner_matter">
 							<img src="assets/image/testimonial/profile.png" class="wow fadeInDown animated">
@@ -456,8 +456,9 @@
 								knowledgeable about Yagya, Astrology (Jyotish), and many wonderful Vedic knowledge.
 								He is clear and quick with responses and is a guide along all stages of the path.
 							</p>
-							<h5 class="wow fadeInDown animated">Tiwari Mahesh</h5>
-							<p class="text-center">Banglore (India)</p>
+							<h5 class="wow fadeInDown animated">R.Pandey
+							</h5>
+							<p class="text-center">Ahmedabad India</p>
 						</div>
 					</div>
 				</div>
@@ -465,23 +466,24 @@
 					<div class="col-sm-12">
 						<div class="testimonial_inner_matter">
 							<img src="assets/image/testimonial/profile.png" class="wow fadeInDown animated">
-							<p class="wow fadeInDown animated">Yagya was last year to my birthday, I receive it 1
-								week , it was great, wonderful and full of light and happiness. Sometime I will do
-								it again. Thank you so much!</p>
-							<h5 class="wow fadeInDown animated"> Heidrun Stark </h5>
-							<p class="text-center"> Germany </p>
+							<p class="wow fadeInDown animated">Yagya was last year to my birthday, I receive it 1 week ,
+								it was great, wonderful and full of light and happiness. Sometime I will do it again.
+								Thank you so much!</p>
+							<h5 class="wow fadeInDown animated"> Chanchal </h5>
+							<p class="text-center"> UK </p>
 						</div>
 					</div>
 				</div>
+
 				<div class="item">
 					<div class="col-sm-12">
 						<div class="testimonial_inner_matter">
 							<img src="assets/image/testimonial/profile.png" class="wow fadeInDown animated">
-							<p class="wow fadeInDown animated">Vishal has good knowledge of astrology, Vedic yagya
-								and spiritual practices. Had multiple positive conversations and extremely content
-								to get a different perspective.</p>
-							<h5 class="wow fadeInDown animated"> Mousmee Nath </h5>
-							<p class="text-center"> Assam (India) </p>
+							<p class="wow fadeInDown animated">Vishal has good knowledge of astrology, Vedic yagya and
+								spiritual practices. Had multiple positive conversations and extremely content to get a
+								different perspective.</p>
+							<h5 class="wow fadeInDown animated"> Rahul </h5>
+							<p class="text-center"> Thailand </p>
 						</div>
 					</div>
 				</div>
