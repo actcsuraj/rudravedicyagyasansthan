@@ -18,7 +18,7 @@
     <div class="content-area" style="padding-top: 60px;">
         <!-- .entry-header -->
         <div class="row">
-            <div class="col-sm-9">
+            <div class="col-md-12">
                 <div class="block-sm login_box">
                     <h3>Book Astrology</h3>
                     <div class="comments-form-wrapper clearfix comment-respond">
@@ -69,7 +69,7 @@
                 </div> <br />
             </div>
 
-         
+
         </div>
     </div>
 </div>
