@@ -69,23 +69,7 @@
                 </div> <br />
             </div>
 
-            <!-- col-md-9 Close -->
-            <div class="col-md-3">
-
-                <!-- #primary -->
-                <div id="sidebar-primary" class="widget-area" role="complementary">
-                    <aside id="archives-2" class="widget widget_archive">
-                        <h2 class="widget-title">Quick Links</h2>
-                        <ul>
-                            <li><a href='#'>Why International Vedic Foundation </a></li>
-                            <li><a href='#'>About International Vedic Foundation</a></li>
-                        </ul>
-                    </aside>
-
-
-                </div>
-                <!-- #sidebar-primary -->
-            </div>
+         
         </div>
     </div>
 </div>
