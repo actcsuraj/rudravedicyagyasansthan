@@ -76,13 +76,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Send the email
     if (mail($to, $subject, $email_content, $headers)) {
         echo "<script>
-                alert('Thank you for contacting us. Your message has been sent.');
-                window.location.href = 'contact.php';
+                alert('Booking successfully done!.');
+                window.location.href = 'booking.php';
               </script>";
     } else {
         echo "<script>
                 alert('Sorry, there was an error sending your message. Please try again later.');
-                window.location.href = 'contact.php';
+                window.location.href = 'booking.php';
               </script>";
     }
 }
