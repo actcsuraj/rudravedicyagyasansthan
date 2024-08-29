@@ -58,7 +58,7 @@
 						<br />
 						Puja performance date.<br />
 						<br />
-						18 Sep to 20 September<br />
+						7 Sep to 18 September<br />
 						<br />
 						<br />
 						First day- Ganeshataarshirsham recitation, Ganesh Puja.<br />

@@ -27,9 +27,7 @@
 							yagya sansthan in the year 2013 and in a short time established a satisfied and prosperous
 							family all over the world through Vedic Yagya, Vedic astrology and Vedic rites. It is a
 							pure Vedic yagya sansthan and has a duty to comply with the rules of the Vedic tradition.
-							All the Vedacharyas of this yagya sansthan are well qualified and graduate from Maharishi
-							Veda
-							vigyan vishwavidyalaya. This yagya sansthan is constantly striving for the satisfaction of
+							All the Vedacharyas of this yagya sansthan are well qualified. This yagya sansthan is constantly striving for the satisfaction of
 							its families (customers) and takes the services of qualified pundits on time and demand
 							basis. Our intention and effort is to build a satisfied family. without hesitation to
 							contact for any question</p>
