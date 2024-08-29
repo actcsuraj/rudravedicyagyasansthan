@@ -49,7 +49,7 @@
 						<br />
 						Ganesh Sthapana Puja Date:<br />
 						Generally the festival of Ganesh Chaturthi is celebrated on the Chaturthi date of Bhadrapada
-						month. The festival of Ganesh Chaturthi in 2023 is on 18 September. By the grace of Lord Ganesha
+						month. The festival of Ganesh Chaturthi in 2024 is on 7 September. By the grace of Lord Ganesha
 						the soul of the devotee gets purified. Ganesha Sthapana and Visarjan puja is for gaining
 						knowledge in studies, and knowledge is for bringing success and good fortune in personal and
 						professional life. He is a Vighnaharta, who protects from all troubles, obstacles and
